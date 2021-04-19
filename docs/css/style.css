@@ -28,11 +28,32 @@ a[href] {
 
 #site {
   text-align: center;
+  width: 800px;
+  margin: 0 auto;
+  color: #b4b0a2;
+  color: #acadae;
+}
+
+#site p {
+    text-align: left;
+}
+
+h3 {
+    color: #e88d13;
+    color: #02a2cb;
 }
 
 .logo {
   margin: 2rem;
   pointer-events: none;
+}
+
+.muddy {
+    color: #82633c;
+}
+
+.turnip {
+    color: #cb60f9;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
