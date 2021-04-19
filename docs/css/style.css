@@ -34,13 +34,19 @@ a[href] {
   color: #acadae;
 }
 
-#site p {
+#site p,
+#site ul {
     text-align: left;
+}
+
+#site li {
+    margin-bottom: 1em;
 }
 
 h3 {
     color: #e88d13;
     color: #02a2cb;
+    margin-bottom: 2em;
 }
 
 .logo {
@@ -49,11 +55,11 @@ h3 {
 }
 
 .muddy {
-    color: #82633c;
+    color: #d8b86f;
 }
 
 .turnip {
-    color: #cb60f9;
+    color: #d845f4;
 }
 
 /* @media (prefers-reduced-motion: no-preference) {
