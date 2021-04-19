@@ -1,3 +1,4 @@
+
 {
   "name": "eleventy-site",
   "private": true,
@@ -6,7 +7,7 @@
   "license": "MIT",
   "description": "Simple eleventy starter site",
   "scripts": {
-    "serve": "npx @11ty/eleventy --serve --input=src --output=_site --formats=md,html,njk,gif,png,jpg,webp,css,js",
-    "build": "npx @11ty/eleventy --input=src --output=_site --formats=md,html,njk,gif,png,jpg,webp,css,js"
+    "serve": "npx @11ty/eleventy --serve --input=src --output=docs --formats=md,html,njk,gif,png,jpg,webp,css,js",
+    "build": "npx @11ty/eleventy --input=src --output=docs --formats=md,html,njk,gif,png,jpg,webp,css,js"
   }
 }
