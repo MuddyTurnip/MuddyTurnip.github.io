@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.netoftrees.com</loc>
+    <lastmod>2024-08-26</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://www.netoftrees.com/assets/OutstandingAndUnmanned.jpg</video:thumbnail_loc>
+      <video:title>Make your support outstanding and unmanned</video:title>
+      <video:description>A quick introduction to netoftrees</video:description>
+      <video:content_loc>https://player.vimeo.com/video/796132091?h=51274b3c7d</video:content_loc>
+      <video:duration>66</video:duration>
+      <video:expiration_date>2026-12-30T23:59:59+00:00</video:expiration_date>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://player.vimeo.com/video/817455618?h=1ed6f8fb44.jpg</video:thumbnail_loc>
+      <video:title>Guide your staff to  hit the ground running</video:title>
+      <video:description>A quick introduction to how netoftrees works</video:description>
+      <video:content_loc>https://player.vimeo.com/video/772890669?h=11ba319a37</video:content_loc>
+      <video:duration>92</video:duration>
+      <video:expiration_date>2026-12-30T23:59:59+00:00</video:expiration_date>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/contact.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/pricing.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/solutions.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/support.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/workflows.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.netoftrees.com/cases.html</loc>
+    <lastmod>2024-08-26</lastmod>
+  </url>
+</urlset>
