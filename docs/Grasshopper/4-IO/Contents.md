@@ -41,7 +41,7 @@ In this tutorial we'll change the state of a [Signal](../../Overview/Glossary.md
 #### Requirements to follow along:
 
 - [McNeel's Rhinoceros 3D and Grasshopper](https://www.rhino3d.com/download), and the HAL Robotics Framework installed on a PC.
-- Reading or watching the [Create a Signal](../4-IO/Contents.md#41-create-a-signal) tutorial is highly recommended and this tutorial builds on its output.
+- Reading or watching the [Create a Signal](./Contents.md#41-create-a-signal) tutorial is highly recommended and this tutorial builds on its output.
 
 #### Background:
 

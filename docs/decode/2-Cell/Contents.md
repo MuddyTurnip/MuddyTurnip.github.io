@@ -219,7 +219,7 @@ Electrical Input and Output (I/O) [Signals](../../Overview/Glossary.md#signal) a
 
 From the **Network** screen, select the **I/O Signals Board** into which you want to add your new [Signal(s)](../../Overview/Glossary.md#signal). [Signals](../../Overview/Glossary.md#signal) can't be moved between **Boards** later. That will enable the _Item Type_ selector to list a number of different [Signals](../../Overview/Glossary.md#signal) types. Select whichever you need but **Digital Output**s are very common so we'll use that as our example here. Click **+** and you'll start creating a [Signal](../../Overview/Glossary.md#signal) of your selected type.
 
-The **Configuration** _Step_ will allow you to set its upper and lower limits (leave `0` to `24V` if you are unsure). The[Translation Overrides](../1-Getting-Started/Contents.md#translation-overrides) will allow you to use a human readable name within _decode_ but change what's [exported](../../Overview/Glossary.md#export).
+The **Configuration** _Step_ will allow you to set its upper and lower limits (leave `0` to `24V` if you are unsure). The [Translation Overrides](../1-Getting-Started/Contents.md#translation-overrides) will allow you to use a human readable name within _decode_ but change what's [exported](../../Overview/Glossary.md#export).
 
 Once you are happy with the [Signal](../../Overview/Glossary.md#signal)'s setup, ensure the name makes it easy to identify and click **ok** in the upper right corner to return to the **Network** screen.
 

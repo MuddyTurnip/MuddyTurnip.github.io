@@ -9,6 +9,7 @@
 [3. Simulation](#3-simulation)
 
 ---
+
 ### 0. Tips
 
 1. We do not currently have a means to reference _TCPs_ and _Payloads_ from your current Installation so make sure these are accurately defined in your simulation.
@@ -38,7 +39,7 @@ You'll find two different Universal Robots controllers in our catalogs, _CB3_ (f
 
 | Subsystem Name | Description | Capabilities | Configuration |
 | -------------- | ----------- | ------------ | ------------- |
-| URScript X.X   | Translates [Procedures](../../Overview/Glossary.md#procedure) to URScript. | [Language](../../Overview/Glossary.md#capabilities) | > Enabled - Whether to export the procedure.<br>> Library Mode - Whether to export code that will run directly or that can be called from another function.<br>> Use Process Move - Whether to use Process Move (_movep_) for linear motion. Otherwise normal (_movel_) is used. |
+| URScript X.X | Translates [Procedures](../../Overview/Glossary.md#procedure) to URScript. | [Language](../../Overview/Glossary.md#capabilities) | > Enabled - Whether to export the procedure.<br>> Library Mode - Whether to export code that will run directly or that can be called from another function.<br>> Use Process Move - Whether to use Process Move (_movep_) for linear motion. Otherwise normal (_movel_) is used. |
 | Dashboard X.X | [Controller](../../Overview/Glossary.md#controller) administration interface. | [Upload](../../Overview/Glossary.md#capabilities)<br>[Execution](../../Overview/Glossary.md#capabilities)<br>[Backup](../../Overview/Glossary.md#capabilities) | > IP - IP address of your remote robot or simulator.<br>> Credentials - Credentials needed to log in to the robot (or [simulator](#3-simulation)) remotely. Defaults will work unless they have been changed in your robot's Settings -> Password -> Admin window. <br>> Root Directory - Directory in which your programs, URCaps etc. are stored. Defaults to '/root' but could be blank if your [simulator is set up as below](#3-simulation) or '/ursim' if using the [default Docker image](#docker). |
 | RTDE | Real-Time Data Exchange protocol which allows low latency communication and state streaming from the [controller](../../Overview/Glossary.md#controller). | [Monitor](../../Overview/Glossary.md#capabilities)<br>[Receive State](../../Overview/Glossary.md#capabilities)<br>[Read Signals](../../Overview/Glossary.md#capabilities)<br>[Write Signals](../../Overview/Glossary.md#capabilities) | > IP - IP address of your remote robot or simulator. |
 | Remote Files | Copies files to and from a remote [controller](../../Overview/Glossary.md#controller). | [File Manager](../../Overview/Glossary.md#capabilities) | > IP - IP address of your remote robot or simulator.<br>> Credentials - Credentials needed to log in to the robot (or [simulator](#3-simulation)) remotely. Defaults will work unless they have been changed in your robot's Settings -> Password -> Admin window. For a simulator, these should be the user on the host machine. |

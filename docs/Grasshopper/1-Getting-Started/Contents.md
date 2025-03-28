@@ -29,7 +29,7 @@ The HAL Robotics Framework is a modular software library that simplify the model
 
 #### How to:
 
-Once you've opened Grasshopper and logged in to the HAL Robotics Framework to access your licenses you should be presented with a blank Grasshopper canvas and a new **HAL Robotics** tab at the top your screen. There are plenty of tools within this tab to allow you to program just about any process you want, and other tutorials will look at each of them individually as well as the [structure of the interface](../1-Getting-Started/Contents.md#12-interface-overview), but for now, we're just going to get up and running as quickly as possible.
+Once you've opened Grasshopper and logged in to the HAL Robotics Framework to access your licenses you should be presented with a blank Grasshopper canvas and a new **HAL Robotics** tab at the top your screen. There are plenty of tools within this tab to allow you to program just about any process you want, and other tutorials will look at each of them individually as well as the [structure of the interface](./Contents.md#12-interface-overview), but for now, we're just going to get up and running as quickly as possible.
 
 [<center><img src="../../assets/images/Grasshopper/11GHLogin.PNG"></center>](../../assets/images/Grasshopper/11GHLogin.PNG)
 <em>The "Log In" window will allow ou to connect to your HAL user account when Grasshopper starts.</em>
@@ -40,7 +40,7 @@ Once you've opened Grasshopper and logged in to the HAL Robotics Framework to ac
 [<img src="../../assets/images/Grasshopper/11GHBlankTab.PNG">](../../assets/images/Grasshopper/11GHBlankTab.PNG)
 <em>The "HAL Robotics" tab contains the components we will use in this tutorial series.</em>
 
-The first component we're going to use is the **Robot**. You'll find it inside the **Cell** menu, in the top left of the toolbar. When we place that component on the canvas not much happens. This is because **Robot** is one of a few special types of component that we've developed to extend the default Grasshopper interface. We'll see what each does as we come across them and they are all covered in a [special tutorial](../1-Getting-Started/Contents.md#13-components) so feel free to have a look at that for more detail.
+The first component we're going to use is the **Robot**. You'll find it inside the **Cell** menu, in the top left of the toolbar. When we place that component on the canvas not much happens. This is because **Robot** is one of a few special types of component that we've developed to extend the default Grasshopper interface. We'll see what each does as we come across them and they are all covered in a [special tutorial](./Contents.md#13-components) so feel free to have a look at that for more detail.
 
 This particular component has an interlocking squares icon **⧉** on the name bar. This indicates that it can be double-clicked to get a pop-up window. If we open that window on the **Robot** component then we get the Robot Catalog. You can select any [Robot](../../Overview/Glossary.md#manipulator) you want by simply clicking on it and then the "Select" button. I'm going to choose the `IRB 1200 - 0.7m` as that's what I have next to me at the office. Once we've made our selection it will pop up into the scene. If you want to change your choice, you can always double click on the component again.
 

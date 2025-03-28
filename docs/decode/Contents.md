@@ -40,11 +40,11 @@
 
 #### [2.3. Create a Reference](./2-Cell/Contents.md#23-create-a-reference)
 
-#### [2.4. Insert a Part](./2-Cell/Contents.md#24-insert-a-part)
+#### [2.4. Insert a Part](./2-Cell/Contents.md#24-create-a-part)
 
 #### [2.5. Create a Controller](./2-Cell/Contents.md#25-create-a-controller)
 
-#### [2.6. Create Signals](./2-Cell/Contents.md#26-create-signals)
+#### [2.6. Create Signals](./2-Cell/Contents.md#26-create-a-signal)
 
 ---
 
