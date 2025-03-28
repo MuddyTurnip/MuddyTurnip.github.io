@@ -1,6 +1,5 @@
 #remote_theme: LeakyAbstractions/pretty-docs
 theme: jekyll-theme-minimal
-# theme: jekyll-theme-poole
 title: HAL Robotics Framework Tutorials
 description: Learn how to use the HAL Robotics Framework.
 logo: /assets/images/LogoDocs.PNG
@@ -26,3 +25,7 @@ github:
 #    values:
 #      layout: doc
 #      color: blue
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
