@@ -3,7 +3,10 @@ title: Dark Poole
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
-permalink: pretty
+# permalink: pretty
+permalink: none
+pretty_urls:
+  enabled: false
 
 # Gems
 plugins:
