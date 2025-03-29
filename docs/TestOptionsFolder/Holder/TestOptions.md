@@ -6,21 +6,31 @@
 <div id="tsConfig" data-page-perma="{{ page.permalink }}" data-site-perma="{{ page.permalink }}" data-collection-perma="{{ collection.permalink }}"></div>
 
 <div>
-{% assign url = page.url | default: post.url %}
-{% if url ends_with '/' %}
-  ✅ Pretty URL (trailing slash).
-{% elsif url contains '.html' %}
-  ❌ Non-pretty URL (.html).
-{% elsif page.permalink or post.permalink %}
-  {% if page.permalink ends_with '/' or post.permalink ends_with '/' %}
-    ✅ Pretty URL (custom permalink with trailing slash).
-  {% elsif page.permalink contains '.html' or post.permalink contains '.html' %}
-    ❌ Non-pretty URL (custom permalink with .html).
+# Is This URL Pretty?
+
+{% assign url = page.url_to_check %}
+
+{% if url %}
+  {% assign url_length = url | size %}
+  {% assign has_query = url | contains: '?' %}
+  {% assign has_hash = url | contains: '#' %}
+  {% assign has_special = url | matches: '[!@#$%^&*()+]' %}
+
+  ## Result for: `{{ url }}`
+
+  {% if url_length < 50 and has_query == false and has_hash == false and has_special == false %}
+    ✅ This URL is **pretty**!  
+    It’s short, clean, and easy to read.
   {% else %}
-    🔍 Custom permalink (check manually: {{ page.permalink | default: post.permalink }}).
+    ❌ This URL is **not pretty**.  
+    ### Reasons:
+    - **Length**: {{ url_length }} characters {% if url_length >= 50 %}(too long, > 50){% endif %}
+    - **Query Params**: {% if has_query %}Yes{% else %}No{% endif %}
+    - **Hash**: {% if has_hash %}Yes{% else %}No{% endif %}
+    - **Special Characters**: {% if has_special %}Yes{% else %}No{% endif %}
   {% endif %}
 {% else %}
-  🤔 Likely pretty (Jekyll defaults to `/about/` for `/about.md`).
+  ⚠️ No URL provided to check. Please set `url_to_check` in the front matter.
 {% endif %}
   </div>
 
