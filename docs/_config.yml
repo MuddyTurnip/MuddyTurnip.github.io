@@ -12,14 +12,14 @@ plugins:
   - jekyll-seo-tag
 
 # Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+# exclude:
+#   - .editorconfig
+#   - .git
+#   - .jekyll-cache
+#   - Gemfile
+#   - Gemfile.lock
+#   - LICENSE.md
+#   - README.md
 
 sass:
   sass_dir: _sass
@@ -31,18 +31,18 @@ sass:
 # ga_analytics: UA-000000-0
 
 # Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+# author:
+#   name: Mark Otto
+#   url: https://twitter.com/mdo
+#   email: markdotto@gmail.com
 
 # Custom vars
-version: 3.0.0
+# version: 3.0.0
 
 # Navbar page list
-nav:
-  - title: Blog
-    url: /archive
+# nav:
+#   - title: Blog
+#     url: /archive
 
-  - title: About
-    url: /about
+#   - title: About
+#     url: /about
