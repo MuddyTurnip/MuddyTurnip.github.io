@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 
 ## 0. Administration and Setup
