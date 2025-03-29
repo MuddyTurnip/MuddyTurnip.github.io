@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    {% if page.title == "Home" %}
+    {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
+    {% else %}
+    {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+  <base href="/" />
+  <meta name="description" content="Netoftrees support platform">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.Bxif6a-M.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.DSCDsY7d.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.B-8G-bJo.png" />
+  <link rel="manifest" href="/assets/site.DfIXfVMJ.webmanifest" />
+  <link rel="mask-icon" href="/assets/safari-pinned-tab.WM-6Lx2D.svg" color="#5bbad5" />
+  <link rel="shortcut icon" href="/assets/favicon.BLNpGCMn.ico" />
+  <meta name="msapplication-TileColor" content="#da532c" />
+  <meta name="msapplication-config"
+    content="data:text/xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxicm93c2VyY29uZmlnPg0KICAgIDxtc2FwcGxpY2F0aW9uPg0KICAgICAgICA8dGlsZT4NCiAgICAgICAgICAgIDxzcXVhcmUxNTB4MTUwbG9nbyBzcmM9Ii9tc3RpbGUtMTUweDE1MC5wbmciLz4NCiAgICAgICAgICAgIDxUaWxlQ29sb3I+I2RhNTMyYzwvVGlsZUNvbG9yPg0KICAgICAgICA8L3RpbGU+DQogICAgPC9tc2FwcGxpY2F0aW9uPg0KPC9icm93c2VyY29uZmlnPg0K" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <link href="https://fonts.googleapis.com/css?family=Montserrat: 200,200i,300,300i,400,400i,500,500i,600"
+    rel="stylesheet" />
+
+  <script type="module" crossorigin src="/assets/index.DPgtAr7V.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index.PPJUR-kP.css">
+</head>
+
+<body>
+
+  <div class="container content">
+    <header class="masthead">
+      <h3 class="masthead-title">
+        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+
+        <nav class="nav">
+          {% for nav in site.nav %}
+          <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
+          {% endfor %}
+        </nav>
+      </h3>
+    </header>
+
+    <main>
+      <div id="treeSolveGuide">
+      {{ content }}
+    </div>
+    <div id="treeSolveAssistant"></div>
+
+    </main>
+
+    <footer class="footer">
+      <small>
+        &copy;
+        <time datetime="{{ site.time | date_to_xmlschema }}"
+          >{{ site.time | date: '%Y' }}</time
+        >. All rights reserved.
+      </small>
+    </footer>
+  </div>
+  
+</body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+
+</html>
