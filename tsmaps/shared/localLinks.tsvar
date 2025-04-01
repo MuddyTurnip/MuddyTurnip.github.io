@@ -1,0 +1,10 @@
+
+¬deLoreanTimeMachineTechnicalManual_map_url: ../BackToTheFuture/Ξ DeLoreanTimeMachineTechnicalManual/DeLoreanTimeMachineTechnicalManual.tsmap
+¬deLoreanTimeMachineTechnicalManual_map_link: ({{deLoreanTimeMachineTechnicalManual_map_url}})
+
+¬logo_url: ../assets/images/_netOfTrees.icon-white-black.svg
+¬logo_image: [<img class="nt-fr-logo" src="{{logo_url}}">]({{logo_url}})
+
+¬logo_outline_url: ../assets/images/_netOfTrees.icon-white-outline.svg
+¬logo_outline_image: [<img class="nt-fr-logo" src="{{logo_outline_url}}">]({{logo_outline_url}})
+
