@@ -1,14 +1,9 @@
----
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
----
-
 :root {
     --border-radius: 0.25rem;
 }
 
 [data-theme="dark-poole"] {
-    --button-color: rgba(255, 255, 255, 0.25);
+    --button-color: rgba(255, 255, 255, 0.3);
     --button-hover-color: rgba(255, 255, 255, 0.5);
     --border-color: rgba(255, 255, 255, 0.25);
 }
@@ -57,10 +52,7 @@
         }
 
         &.nt-fr-collapsed {
-            border-radius: 0;
-            border-width: 0.571429px;
-            border-color: var(--border-color);
-            border-style: solid none none none;
+            margin: 25px 0 10px 0;
             padding: 0;
             box-sizing: border-box;
             display: flex;
@@ -76,10 +68,14 @@
             }
 
             .nt-fr-option-selected {
+                border-radius: 0;
+                border-width: 0.571429px;
+                border-color: var(--border-color);
+                border-style: solid none none none;   
                 box-sizing: border-box;
                 color: var(--button-color);
                 margin: 0 0 0 auto;
-                padding: 8px 0 0 20px;
+                padding: 8px 0;
                 transition-delay: 0s;
                 transition-property: all;
                 transition-duration: .2s;
