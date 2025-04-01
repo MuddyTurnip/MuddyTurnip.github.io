@@ -11,13 +11,6 @@
 #treeSolveFragments .nt-fr-fragment-options {
   margin: 0;
   padding: 45px 0;
-  transition-delay: 0s;
-  transition-property: all;
-  transition-duration: 0.2s;
-  transition-timing-function: linear;
-}
-#treeSolveFragments .nt-fr-fragment-options:hover .nt-fr-option {
-  color: var(--button-hover-color);
 }
 #treeSolveFragments .nt-fr-fragment-options .nt-fr-option {
   border: 0.571429px solid var(--border-color);
@@ -35,13 +28,10 @@
   min-width: 336px;
   min-width: 400px;
   margin: 0 0 20px 0;
-  transition-delay: 0s;
-  transition-property: all;
-  transition-duration: 0.2s;
-  transition-timing-function: linear;
 }
 #treeSolveFragments .nt-fr-fragment-options .nt-fr-option:hover {
   color: #fff;
+  color: var(--button-hover-color);
   border-color: rgba(255, 255, 255, 0.4);
 }
 #treeSolveFragments .nt-fr-fragment-options.nt-fr-collapsed {
@@ -65,12 +55,8 @@
   border-style: solid none none none;
   box-sizing: border-box;
   color: var(--button-color);
-  margin: 0 0 0 auto;
+  margin: 0;
   padding: 8px 0;
-  transition-delay: 0s;
-  transition-property: all;
-  transition-duration: 0.2s;
-  transition-timing-function: linear;
 }
 #treeSolveFragments .nt-fr-fragment-options .nt-fr-options-box {
   border-radius: 0;
@@ -100,5 +86,5 @@
 #treeSolveFragments .nt-fr-fragment-options .nt-fr-options-box .nt-fr-option-selected {
   box-sizing: border-box;
   color: var(--button-color);
-  margin: 0 0 0 auto;
+  margin: 0;
 }
