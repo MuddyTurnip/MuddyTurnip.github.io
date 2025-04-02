@@ -1,0 +1,184 @@
+{
+    "key": "cQRFwH00Px  ",
+    "token": "6Control",
+    "name": "6-Control",
+    "created": "2025-03-14T10:48:48.481Z",
+    "list": true,
+    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/Ξ 6-Control/6-Control.tsmap",
+    "iText": "Link to '6-Control'",
+    "___rΩΩt___": {
+        "key": "cQRHFo00sB",
+        "nodes": [
+            {
+                "key": "cQRK3y00j3",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "cQRMtm02X1",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "cQROzv00FN",
+                        "nodes": [
+                            {
+                                "key": "cQROey00Rk",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "cQRTPQ00ck",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "cQRV4602B7",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "cQRX5G02AK",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "sharedAssetKey": "cQRb3E018n",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "cQRans01Z7",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "cQReRi021U",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "cQRfjV008N",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "cQRhyX01AO",
+                                                                                        "order": 1,
+                                                                                        "option": "Next",
+                                                                                        "sharedAssetKey": "cQRjaK00rG",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "cQRjJb01Nz",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "cQRmDh02LH",
+                                                                                                        "order": 1,
+                                                                                                        "option": "Next",
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "cQRo5h01eU",
+                                                                                                                "order": 1,
+                                                                                                                "option": "Next",
+                                                                                                                "nodes": [
+                                                                                                                    {
+                                                                                                                        "key": "cQRpsh02Np",
+                                                                                                                        "order": 1,
+                                                                                                                        "option": "Next",
+                                                                                                                        "isLeaf": true
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-cQRHFo00sB",
+            "relativePath": "./δ steps/δ-cQRHFo00sB.tsstp"
+        },
+        {
+            "key": "δ-cQRK3y00j3",
+            "relativePath": "./δ steps/δ-cQRK3y00j3.tsstp"
+        },
+        {
+            "key": "cQROzv00FN",
+            "relativePath": "../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cQROey00Rk",
+            "relativePath": "./δ steps/δ-cQROey00Rk.tsstp"
+        },
+        {
+            "key": "δ-cQRTPQ00ck",
+            "relativePath": "./δ steps/δ-cQRTPQ00ck.tsstp"
+        },
+        {
+            "key": "δ-cQRV4602B7",
+            "relativePath": "./δ steps/δ-cQRV4602B7.tsstp"
+        },
+        {
+            "key": "cQRb3E018n",
+            "relativePath": "../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cQRans01Z7",
+            "relativePath": "./δ steps/δ-cQRans01Z7.tsstp"
+        },
+        {
+            "key": "δ-cQReRi021U",
+            "relativePath": "./δ steps/δ-cQReRi021U.tsstp"
+        },
+        {
+            "key": "δ-cQRfjV008N",
+            "relativePath": "./δ steps/δ-cQRfjV008N.tsstp"
+        },
+        {
+            "key": "cQRjaK00rG",
+            "relativePath": "../_shared/Requirements.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cQRjJb01Nz",
+            "relativePath": "./δ steps/δ-cQRjJb01Nz.tsstp"
+        },
+        {
+            "key": "δ-cQRmDh02LH",
+            "relativePath": "./δ steps/δ-cQRmDh02LH.tsstp"
+        },
+        {
+            "key": "δ-cQRo5h01eU",
+            "relativePath": "./δ steps/δ-cQRo5h01eU.tsstp"
+        },
+        {
+            "key": "δ-cQRpsh02Np",
+            "relativePath": "./δ steps/δ-cQRpsh02Np.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "eDV3wl01GV",
+        "editorID": "me_c13ec6340fc74a4eb8a6254b3048bb7a",
+        "ticks": 1743590408991
+    }
+}

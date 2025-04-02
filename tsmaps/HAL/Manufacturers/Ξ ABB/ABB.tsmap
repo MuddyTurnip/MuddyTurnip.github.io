@@ -1,0 +1,132 @@
+{
+    "key": "cLtcaB00NE  ",
+    "token": "Abb",
+    "name": "ABB",
+    "created": "2025-03-13T16:10:07.027Z",
+    "list": true,
+    "publishFileName": "Contents",
+    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/Ξ ABB/ABB.tsmap",
+    "iText": "Link to 'ABB'",
+    "___rΩΩt___": {
+        "key": "cLtfAU02Vg",
+        "sharedAssetKey": "cLuNr201UO",
+        "nodes": [
+            {
+                "key": "cLuMfT02Tb",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "cLucOp00V3",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "cLufLU00Ei",
+                        "nodes": [
+                            {
+                                "key": "cLuezq00Yj",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "cLujQq005I",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "sharedAssetKey": "cLvAHC01fm",
+                                        "nodes": [
+                                            {
+                                                "key": "cLv9pn00s7",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "cLvDBG024i",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "sharedAssetKey": "cLvby400bs",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "cLvJci00QF",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "cLvMfG00hb",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "cLvi1J01fK",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "isLeaf": true
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "cLuNr201UO",
+            "relativePath": "../_shared/titleContents.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLuMfT02Tb",
+            "relativePath": "./δ steps/δ-cLuMfT02Tb.tsstp"
+        },
+        {
+            "key": "cLufLU00Ei",
+            "relativePath": "../_shared/controllerOptions.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLuezq00Yj",
+            "relativePath": "./δ steps/δ-cLuezq00Yj.tsstp"
+        },
+        {
+            "key": "cLvAHC01fm",
+            "relativePath": "../_shared/uploadingCode.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "cLvby400bs",
+            "relativePath": "../_shared/remoteInstructionList.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLvJci00QF",
+            "relativePath": "./δ steps/δ-cLvJci00QF.tsstp"
+        },
+        {
+            "key": "δ-cLvMfG00hb",
+            "relativePath": "./δ steps/δ-cLvMfG00hb.tsstp"
+        },
+        {
+            "key": "δ-cLv9pn00s7",
+            "relativePath": "./δ steps/δ-cLv9pn00s7.tsstp"
+        },
+        {
+            "key": "δ-cLvi1J01fK",
+            "relativePath": "./δ steps/δ-cLvi1J01fK.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "eDalCO01pN",
+        "editorID": "me_049e023a03bd404bafe5dcd11c740849",
+        "ticks": 1743591766893
+    }
+}

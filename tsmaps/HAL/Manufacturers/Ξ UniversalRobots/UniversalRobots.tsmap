@@ -1,0 +1,154 @@
+{
+    "key": "cLrULp02Sz  ",
+    "token": "Universalrobots",
+    "name": "UniversalRobots",
+    "created": "2025-03-13T16:01:38.729Z",
+    "list": true,
+    "publishFileName": "Contents",
+    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/Ξ UniversalRobots/UniversalRobots.tsmap",
+    "iText": "Link to 'UniversalRobots'",
+    "___rΩΩt___": {
+        "key": "cLrW5g00Nd",
+        "sharedAssetKey": "cLshgS02Ic",
+        "nodes": [
+            {
+                "key": "cLrsc900St",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "cLruj400c2",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "cLswYZ00BT",
+                        "nodes": [
+                            {
+                                "key": "cLsP5p00nz",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "cLt1dA01MI",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "sharedAssetKey": "cLt4vy01CQ",
+                                        "nodes": [
+                                            {
+                                                "key": "cLt4ZN00zv",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "cLt9Tx02Fq",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "sharedAssetKey": "cLtCqz022L",
+                                                        "nodes": [
+                                                            {
+                                                                "key": "cLtCQ502Ez",
+                                                                "order": 1,
+                                                                "option": "Next",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "cLtGaq007h",
+                                                                        "order": 1,
+                                                                        "option": "Next",
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "cLtJA500Rp",
+                                                                                "order": 1,
+                                                                                "option": "Next",
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "cLtLjN00yH",
+                                                                                        "order": 1,
+                                                                                        "option": "Next",
+                                                                                        "nodes": [
+                                                                                            {
+                                                                                                "key": "cLtNmT0229",
+                                                                                                "order": 1,
+                                                                                                "option": "Next",
+                                                                                                "isLeaf": true
+                                                                                            }
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "cLshgS02Ic",
+            "relativePath": "../../_shared/titleContents.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLrsc900St",
+            "relativePath": "./δ steps/δ-cLrsc900St.tsstp"
+        },
+        {
+            "key": "cLswYZ00BT",
+            "relativePath": "../../_shared/controllerOptions.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLsP5p00nz",
+            "relativePath": "./δ steps/δ-cLsP5p00nz.tsstp"
+        },
+        {
+            "key": "cLt4vy01CQ",
+            "relativePath": "../../_shared/uploadingCode.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLt4ZN00zv",
+            "relativePath": "./δ steps/δ-cLt4ZN00zv.tsstp"
+        },
+        {
+            "key": "cLtCqz022L",
+            "relativePath": "../../_shared/remoteInstructionList.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-cLtCQ502Ez",
+            "relativePath": "./δ steps/δ-cLtCQ502Ez.tsstp"
+        },
+        {
+            "key": "δ-cLtGaq007h",
+            "relativePath": "./δ steps/δ-cLtGaq007h.tsstp"
+        },
+        {
+            "key": "δ-cLtJA500Rp",
+            "relativePath": "./δ steps/δ-cLtJA500Rp.tsstp"
+        },
+        {
+            "key": "δ-cLtLjN00yH",
+            "relativePath": "./δ steps/δ-cLtLjN00yH.tsstp"
+        },
+        {
+            "key": "δ-cLtNmT0229",
+            "relativePath": "./δ steps/δ-cLtNmT0229.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "eDZ8Tj1sQ",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1743591379724
+    }
+}
