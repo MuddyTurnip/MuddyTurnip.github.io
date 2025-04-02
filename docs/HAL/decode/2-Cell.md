@@ -42,7 +42,10 @@ Once you are happy with the [Robot](../Overview/Glossary.md#manipulator)'s setup
 
 # test
 
-[<img src="../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif">]({% link ../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif %))
+[<img src="../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif">]({% link ../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif %})
+
+[<img src="../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif">](../assets/images/decode/01-Scene/Cell-AddRobot-Catalogue.gif)
+
 <em>There are lots of robots to choose from in the online catalogue.</em>
 
 ---
