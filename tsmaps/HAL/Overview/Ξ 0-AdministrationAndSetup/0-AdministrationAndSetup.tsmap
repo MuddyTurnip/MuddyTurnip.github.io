@@ -1,0 +1,80 @@
+{
+    "key": "cLjy2000fw  ",
+    "token": "0AdministrationAndSetup",
+    "name": "0-AdministrationAndSetup",
+    "created": "2025-03-13T15:31:46.197Z",
+    "list": true,
+    "publishFileName": "0-Administration-and-Setup",
+    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Overview/0-AdministrationAndSetup/0-AdministrationAndSetup.tsmap",
+    "iText": "Link to '0-AdministrationAndSetup'",
+    "___rΩΩt___": {
+        "key": "cLjzQe025e",
+        "nodes": [
+            {
+                "key": "cLqjLv01ZV",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "cLqmFS0203",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "cLqowz015S",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "cLqrEB02Wa",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "cLqtb7001C",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "isLeaf": true
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-cLjzQe025e",
+            "relativePath": "./δ steps/δ-cLjzQe025e.tsstp"
+        },
+        {
+            "key": "δ-cLqjLv01ZV",
+            "relativePath": "./δ steps/δ-cLqjLv01ZV.tsstp"
+        },
+        {
+            "key": "δ-cLqmFS0203",
+            "relativePath": "./δ steps/δ-cLqmFS0203.tsstp"
+        },
+        {
+            "key": "δ-cLqowz015S",
+            "relativePath": "./δ steps/δ-cLqowz015S.tsstp"
+        },
+        {
+            "key": "δ-cLqrEB02Wa",
+            "relativePath": "./δ steps/δ-cLqrEB02Wa.tsstp"
+        },
+        {
+            "key": "δ-cLqtb7001C",
+            "relativePath": "./δ steps/δ-cLqtb7001C.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "eDibtk02P1",
+        "editorID": "me_dc695aa54a2f4daaa4263e7873426896",
+        "ticks": 1743593637764
+    }
+}

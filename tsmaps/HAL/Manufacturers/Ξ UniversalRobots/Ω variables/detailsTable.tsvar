@@ -1,5 +1,5 @@
-¬import gl from "../../../../_shared/glossaryLinks"
-¬import el from "../../../../_shared/externalLinks"
+¬import gl from "../../../_shared/glossaryLinks"
+¬import el from "../../../_shared/externalLinks"
 
 
 ¬cell-1-1: 

@@ -95,7 +95,7 @@
     "___αssεts___": [
         {
             "key": "cLshgS02Ic",
-            "relativePath": "../../_shared/titleContents.tsstp",
+            "relativePath": "../_shared/titleContents.tsstp",
             "isShared": true
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "key": "cLswYZ00BT",
-            "relativePath": "../../_shared/controllerOptions.tsstp",
+            "relativePath": "../_shared/controllerOptions.tsstp",
             "isShared": true
         },
         {
@@ -113,7 +113,7 @@
         },
         {
             "key": "cLt4vy01CQ",
-            "relativePath": "../../_shared/uploadingCode.tsstp",
+            "relativePath": "../_shared/uploadingCode.tsstp",
             "isShared": true
         },
         {
@@ -122,7 +122,7 @@
         },
         {
             "key": "cLtCqz022L",
-            "relativePath": "../../_shared/remoteInstructionList.tsstp",
+            "relativePath": "../_shared/remoteInstructionList.tsstp",
             "isShared": true
         },
         {
@@ -147,8 +147,8 @@
         }
     ],
     "___εdit___": {
-        "id": "eDZ8Tj1sQ",
-        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
-        "ticks": 1743591379724
+        "id": "eDhnDA01Zv",
+        "editorID": "me_bf559b90e1a34b71b41cfae669cce3b0",
+        "ticks": 1743593442924
     }
 }
