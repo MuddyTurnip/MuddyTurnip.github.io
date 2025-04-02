@@ -1,5 +1,5 @@
 {
-    "key": "cQUtAk01DT  ",
+    "key": "eGVQJ60uV",
     "token": "2Cell",
     "name": "2-Cell",
     "created": "2025-03-14T11:03:14.278Z",
@@ -7,197 +7,197 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/Ξ 2-Cell/2-Cell.tsmap",
     "iText": "Link to '2-Cell'",
     "___rΩΩt___": {
-        "key": "cQUupV02aW",
+        "key": "eGVQJ60Ef",
         "nodes": [
             {
-                "key": "cQUxzl01Bk",
+                "key": "eGVQJ60jY",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "cQUzvH00Ah",
+                        "key": "eGVQJ61vL",
                         "order": 1,
                         "option": "Next",
                         "sharedAssetKey": "cQV1xl01c0",
                         "nodes": [
                             {
-                                "key": "cQV1G201ft",
+                                "key": "eGVQJ60Hr",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "cQV4OC026a",
+                                        "key": "eGVQJ61EH",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "cQV5nA025E",
+                                                "key": "eGVQJ60mw",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "sharedAssetKey": "cQV7No01yq",
                                                 "nodes": [
                                                     {
-                                                        "key": "cQV708012b",
+                                                        "key": "eGVQJ62PD",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "cQVALR00nc",
+                                                                "key": "eGVQJ61zF",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "cQVBgI018C",
+                                                                        "key": "eGVQJ61DH",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "cQVDoS00X4",
+                                                                                "key": "eGVQJ61xY",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "cQVFD500Lx",
+                                                                                        "key": "eGVQJ60n7",
                                                                                         "order": 1,
                                                                                         "option": "Next",
                                                                                         "sharedAssetKey": "cQVHEe01c7",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "cQVGzh0168",
+                                                                                                "key": "eGVQJ61o0",
                                                                                                 "order": 1,
                                                                                                 "option": "Next",
                                                                                                 "nodes": [
                                                                                                     {
-                                                                                                        "key": "cQVKJq02ZE",
+                                                                                                        "key": "eGVQJ61Kf",
                                                                                                         "order": 1,
                                                                                                         "option": "Next",
                                                                                                         "nodes": [
                                                                                                             {
-                                                                                                                "key": "cQVM3X015i",
+                                                                                                                "key": "eGVQJ62TY",
                                                                                                                 "order": 1,
                                                                                                                 "option": "Next",
                                                                                                                 "nodes": [
                                                                                                                     {
-                                                                                                                        "key": "cQVNtj00QO",
+                                                                                                                        "key": "eGVQJ60jS",
                                                                                                                         "order": 1,
                                                                                                                         "option": "Next",
                                                                                                                         "nodes": [
                                                                                                                             {
-                                                                                                                                "key": "cQVPWn00V5",
+                                                                                                                                "key": "eGVQJ623Q",
                                                                                                                                 "order": 1,
                                                                                                                                 "option": "Next",
                                                                                                                                 "nodes": [
                                                                                                                                     {
-                                                                                                                                        "key": "cQVRMm00ZR",
+                                                                                                                                        "key": "eGVQJ62O5",
                                                                                                                                         "order": 1,
                                                                                                                                         "option": "Next",
                                                                                                                                         "sharedAssetKey": "cQVTGS00AH",
                                                                                                                                         "nodes": [
                                                                                                                                             {
-                                                                                                                                                "key": "cQVSnY00SJ",
+                                                                                                                                                "key": "eGVQJ614e",
                                                                                                                                                 "order": 1,
                                                                                                                                                 "option": "Next",
                                                                                                                                                 "nodes": [
                                                                                                                                                     {
-                                                                                                                                                        "key": "cQVW5n00Jh",
+                                                                                                                                                        "key": "eGVQJ600C",
                                                                                                                                                         "order": 1,
                                                                                                                                                         "option": "Next",
                                                                                                                                                         "nodes": [
                                                                                                                                                             {
-                                                                                                                                                                "key": "cQVXVO02Jm",
+                                                                                                                                                                "key": "eGVQJ62CQ",
                                                                                                                                                                 "order": 1,
                                                                                                                                                                 "option": "Next",
                                                                                                                                                                 "nodes": [
                                                                                                                                                                     {
-                                                                                                                                                                        "key": "cQVZNN01Af",
+                                                                                                                                                                        "key": "eGVQJ60P0",
                                                                                                                                                                         "order": 1,
                                                                                                                                                                         "option": "Next",
                                                                                                                                                                         "nodes": [
                                                                                                                                                                             {
-                                                                                                                                                                                "key": "cQVbK501Mm",
+                                                                                                                                                                                "key": "eGVQJ61BS",
                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                     {
-                                                                                                                                                                                        "key": "cQVcSp00Ek",
+                                                                                                                                                                                        "key": "eGVQJ625d",
                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                         "sharedAssetKey": "cQVe0q01Dg",
                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                             {
-                                                                                                                                                                                                "key": "cQVdgk02KR",
+                                                                                                                                                                                                "key": "eGVQJ62TB",
                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                     {
-                                                                                                                                                                                                        "key": "cQVgzf01hZ",
+                                                                                                                                                                                                        "key": "eGVQJ60wx",
                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                             {
-                                                                                                                                                                                                                "key": "cQVidt01H4",
+                                                                                                                                                                                                                "key": "eGVQJ61x7",
                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                        "key": "cQVk1z00qB",
+                                                                                                                                                                                                                        "key": "eGVQJ60LU",
                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                "key": "cQVm2501uW",
+                                                                                                                                                                                                                                "key": "eGVQJ61GE",
                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                 "sharedAssetKey": "cQVnH4008v",
                                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                                        "key": "cQVn1T011z",
+                                                                                                                                                                                                                                        "key": "eGVQJ61GO",
                                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                                "key": "cQVpyW01Zl",
+                                                                                                                                                                                                                                                "key": "eGVQJ61bc",
                                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                                                        "key": "cQVrZ802ap",
+                                                                                                                                                                                                                                                        "key": "eGVQJ61Mv",
                                                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                                                "key": "cQVtCd00Qg",
+                                                                                                                                                                                                                                                                "key": "eGVQJ606G",
                                                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                                                                        "key": "cQVv5600bm",
+                                                                                                                                                                                                                                                                        "key": "eGVQJ61m6",
                                                                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                                                                         "sharedAssetKey": "cQVwv0018P",
                                                                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                                                                "key": "cQVwfa01vK",
+                                                                                                                                                                                                                                                                                "key": "eGVQJ62CF",
                                                                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                                                                                        "key": "cQVziO00qr",
+                                                                                                                                                                                                                                                                                        "key": "eGVQJ62JF",
                                                                                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                                                                                "key": "cQW1Ga02Dk",
+                                                                                                                                                                                                                                                                                                "key": "eGVQJ61iD",
                                                                                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                                                                                 "nodes": [
                                                                                                                                                                                                                                                                                                     {
-                                                                                                                                                                                                                                                                                                        "key": "cQW2aq02GK",
+                                                                                                                                                                                                                                                                                                        "key": "eGVQJ613x",
                                                                                                                                                                                                                                                                                                         "order": 1,
                                                                                                                                                                                                                                                                                                         "option": "Next",
                                                                                                                                                                                                                                                                                                         "nodes": [
                                                                                                                                                                                                                                                                                                             {
-                                                                                                                                                                                                                                                                                                                "key": "cQW4je02GZ",
+                                                                                                                                                                                                                                                                                                                "key": "eGVQJ61Cd",
                                                                                                                                                                                                                                                                                                                 "order": 1,
                                                                                                                                                                                                                                                                                                                 "option": "Next",
                                                                                                                                                                                                                                                                                                                 "isLeaf": true
@@ -278,11 +278,11 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-cQUupV02aW",
+            "key": "δ-eGVQJ60Ef",
             "relativePath": "./δ steps/δ-cQUupV02aW.tsstp"
         },
         {
-            "key": "δ-cQUxzl01Bk",
+            "key": "δ-eGVQJ60jY",
             "relativePath": "./δ steps/δ-cQUxzl01Bk.tsstp"
         },
         {
@@ -291,11 +291,11 @@
             "isShared": true
         },
         {
-            "key": "δ-cQV1G201ft",
+            "key": "δ-eGVQJ60Hr",
             "relativePath": "./δ steps/δ-cQV1G201ft.tsstp"
         },
         {
-            "key": "δ-cQV4OC026a",
+            "key": "δ-eGVQJ61EH",
             "relativePath": "./δ steps/δ-cQV4OC026a.tsstp"
         },
         {
@@ -304,19 +304,19 @@
             "isShared": true
         },
         {
-            "key": "δ-cQV708012b",
+            "key": "δ-eGVQJ62PD",
             "relativePath": "./δ steps/δ-cQV708012b.tsstp"
         },
         {
-            "key": "δ-cQVALR00nc",
+            "key": "δ-eGVQJ61zF",
             "relativePath": "./δ steps/δ-cQVALR00nc.tsstp"
         },
         {
-            "key": "δ-cQVBgI018C",
+            "key": "δ-eGVQJ61DH",
             "relativePath": "./δ steps/δ-cQVBgI018C.tsstp"
         },
         {
-            "key": "δ-cQVDoS00X4",
+            "key": "δ-eGVQJ61xY",
             "relativePath": "./δ steps/δ-cQVDoS00X4.tsstp"
         },
         {
@@ -325,23 +325,23 @@
             "isShared": true
         },
         {
-            "key": "δ-cQVGzh0168",
+            "key": "δ-eGVQJ61o0",
             "relativePath": "./δ steps/δ-cQVGzh0168.tsstp"
         },
         {
-            "key": "δ-cQVKJq02ZE",
+            "key": "δ-eGVQJ61Kf",
             "relativePath": "./δ steps/δ-cQVKJq02ZE.tsstp"
         },
         {
-            "key": "δ-cQVM3X015i",
+            "key": "δ-eGVQJ62TY",
             "relativePath": "./δ steps/δ-cQVM3X015i.tsstp"
         },
         {
-            "key": "δ-cQVNtj00QO",
+            "key": "δ-eGVQJ60jS",
             "relativePath": "./δ steps/δ-cQVNtj00QO.tsstp"
         },
         {
-            "key": "δ-cQVPWn00V5",
+            "key": "δ-eGVQJ623Q",
             "relativePath": "./δ steps/δ-cQVPWn00V5.tsstp"
         },
         {
@@ -350,23 +350,23 @@
             "isShared": true
         },
         {
-            "key": "δ-cQVSnY00SJ",
+            "key": "δ-eGVQJ614e",
             "relativePath": "./δ steps/δ-cQVSnY00SJ.tsstp"
         },
         {
-            "key": "δ-cQVW5n00Jh",
+            "key": "δ-eGVQJ600C",
             "relativePath": "./δ steps/δ-cQVW5n00Jh.tsstp"
         },
         {
-            "key": "δ-cQVXVO02Jm",
+            "key": "δ-eGVQJ62CQ",
             "relativePath": "./δ steps/δ-cQVXVO02Jm.tsstp"
         },
         {
-            "key": "δ-cQVZNN01Af",
+            "key": "δ-eGVQJ60P0",
             "relativePath": "./δ steps/δ-cQVZNN01Af.tsstp"
         },
         {
-            "key": "δ-cQVbK501Mm",
+            "key": "δ-eGVQJ61BS",
             "relativePath": "./δ steps/δ-cQVbK501Mm.tsstp"
         },
         {
@@ -375,19 +375,19 @@
             "isShared": true
         },
         {
-            "key": "δ-cQVdgk02KR",
+            "key": "δ-eGVQJ62TB",
             "relativePath": "./δ steps/δ-cQVdgk02KR.tsstp"
         },
         {
-            "key": "δ-cQVgzf01hZ",
+            "key": "δ-eGVQJ60wx",
             "relativePath": "./δ steps/δ-cQVgzf01hZ.tsstp"
         },
         {
-            "key": "δ-cQVidt01H4",
+            "key": "δ-eGVQJ61x7",
             "relativePath": "./δ steps/δ-cQVidt01H4.tsstp"
         },
         {
-            "key": "δ-cQVk1z00qB",
+            "key": "δ-eGVQJ60LU",
             "relativePath": "./δ steps/δ-cQVk1z00qB.tsstp"
         },
         {
@@ -396,19 +396,19 @@
             "isShared": true
         },
         {
-            "key": "δ-cQVn1T011z",
+            "key": "δ-eGVQJ61GO",
             "relativePath": "./δ steps/δ-cQVn1T011z.tsstp"
         },
         {
-            "key": "δ-cQVpyW01Zl",
+            "key": "δ-eGVQJ61bc",
             "relativePath": "./δ steps/δ-cQVpyW01Zl.tsstp"
         },
         {
-            "key": "δ-cQVrZ802ap",
+            "key": "δ-eGVQJ61Mv",
             "relativePath": "./δ steps/δ-cQVrZ802ap.tsstp"
         },
         {
-            "key": "δ-cQVtCd00Qg",
+            "key": "δ-eGVQJ606G",
             "relativePath": "./δ steps/δ-cQVtCd00Qg.tsstp"
         },
         {
@@ -417,23 +417,23 @@
             "isShared": true
         },
         {
-            "key": "δ-cQVwfa01vK",
+            "key": "δ-eGVQJ62CF",
             "relativePath": "./δ steps/δ-cQVwfa01vK.tsstp"
         },
         {
-            "key": "δ-cQVziO00qr",
+            "key": "δ-eGVQJ62JF",
             "relativePath": "./δ steps/δ-cQVziO00qr.tsstp"
         },
         {
-            "key": "δ-cQW1Ga02Dk",
+            "key": "δ-eGVQJ61iD",
             "relativePath": "./δ steps/δ-cQW1Ga02Dk.tsstp"
         },
         {
-            "key": "δ-cQW2aq02GK",
+            "key": "δ-eGVQJ613x",
             "relativePath": "./δ steps/δ-cQW2aq02GK.tsstp"
         },
         {
-            "key": "δ-cQW4je02GZ",
+            "key": "δ-eGVQJ61Cd",
             "relativePath": "./δ steps/δ-cQW4je02GZ.tsstp"
         }
     ],

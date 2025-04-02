@@ -1,5 +1,5 @@
 {
-    "key": "cQS2Iq026o  ",
+    "key": "eGVQIT27G",
     "token": "5Advancedprogramming",
     "name": "5-AdvancedProgramming",
     "created": "2025-03-14T10:51:54.392Z",
@@ -8,63 +8,63 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/Ξ 5-AdvancedProgramming/5-AdvancedProgramming.tsmap",
     "iText": "Link to '5-AdvancedProgramming'",
     "___rΩΩt___": {
-        "key": "cQS3Zt01zR",
+        "key": "eGVQIT2YQ",
         "nodes": [
             {
-                "key": "cQS8Dc00ex",
+                "key": "eGVQIT1Bl",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "cQS9rq00jj",
+                        "key": "eGVQIT1jv",
                         "order": 1,
                         "option": "Next",
                         "sharedAssetKey": "cQSBmu0232",
                         "nodes": [
                             {
-                                "key": "cQSBPg02TG",
+                                "key": "eGVQIT13k",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "cQSEXG01zj",
+                                        "key": "eGVQIT24j",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "cQSFyh00dA",
+                                                "key": "eGVQIT1Lj",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "sharedAssetKey": "cQSHzi02KN",
                                                 "nodes": [
                                                     {
-                                                        "key": "cQSHjj02OX",
+                                                        "key": "eGVQIT1se",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "cQSKU800VL",
+                                                                "key": "eGVQIT0XT",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "cQSMzr01l7",
+                                                                        "key": "eGVQIT0FK",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "cQSOku02aw",
+                                                                                "key": "eGVQIT0N0",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "cQSQXV01Jn",
+                                                                                        "key": "eGVQIT0qH",
                                                                                         "order": 1,
                                                                                         "option": "Next",
                                                                                         "sharedAssetKey": "cQSSkc00w3",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "cQSSQd027V",
+                                                                                                "key": "eGVQIT0Pr",
                                                                                                 "order": 1,
                                                                                                 "option": "Next",
                                                                                                 "isLeaf": true
@@ -93,11 +93,11 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-cQS3Zt01zR",
+            "key": "δ-eGVQIT2YQ",
             "relativePath": "./δ steps/δ-cQS3Zt01zR.tsstp"
         },
         {
-            "key": "δ-cQS8Dc00ex",
+            "key": "δ-eGVQIT1Bl",
             "relativePath": "./δ steps/δ-cQS8Dc00ex.tsstp"
         },
         {
@@ -106,11 +106,11 @@
             "isShared": true
         },
         {
-            "key": "δ-cQSBPg02TG",
+            "key": "δ-eGVQIT13k",
             "relativePath": "./δ steps/δ-cQSBPg02TG.tsstp"
         },
         {
-            "key": "δ-cQSEXG01zj",
+            "key": "δ-eGVQIT24j",
             "relativePath": "./δ steps/δ-cQSEXG01zj.tsstp"
         },
         {
@@ -119,19 +119,19 @@
             "isShared": true
         },
         {
-            "key": "δ-cQSHjj02OX",
+            "key": "δ-eGVQIT1se",
             "relativePath": "./δ steps/δ-cQSHjj02OX.tsstp"
         },
         {
-            "key": "δ-cQSKU800VL",
+            "key": "δ-eGVQIT0XT",
             "relativePath": "./δ steps/δ-cQSKU800VL.tsstp"
         },
         {
-            "key": "δ-cQSMzr01l7",
+            "key": "δ-eGVQIT0FK",
             "relativePath": "./δ steps/δ-cQSMzr01l7.tsstp"
         },
         {
-            "key": "δ-cQSOku02aw",
+            "key": "δ-eGVQIT0N0",
             "relativePath": "./δ steps/δ-cQSOku02aw.tsstp"
         },
         {
@@ -140,7 +140,7 @@
             "isShared": true
         },
         {
-            "key": "δ-cQSSQd027V",
+            "key": "δ-eGVQIT0Pr",
             "relativePath": "./δ steps/δ-cQSSQd027V.tsstp"
         }
     ],

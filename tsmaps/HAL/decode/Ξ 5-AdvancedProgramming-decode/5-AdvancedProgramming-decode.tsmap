@@ -1,5 +1,5 @@
 {
-    "key": "cQb1ar00Lg  ",
+    "key": "eGVQJR26Y",
     "token": "5AdvancedProgrammingdecode",
     "name": "5-AdvancedProgramming-decode",
     "created": "2025-03-14T11:27:36.617Z",
@@ -8,35 +8,35 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/Ξ 5-AdvancedProgramming-decode/5-AdvancedProgramming-decode.tsmap",
     "iText": "Link to '5-AdvancedProgramming-decode'",
     "___rΩΩt___": {
-        "key": "cQb9QY0063",
+        "key": "eGVQJR2AP",
         "nodes": [
             {
-                "key": "cQbE5p004q",
+                "key": "eGVQJR0K1",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "cQbFez001e",
+                        "key": "eGVQJR0rZ",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "cQbHCh01P3",
+                                "key": "eGVQJR1z2",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "cQbIaW02Vm",
+                                        "key": "eGVQJR0vj",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "cQbJr600ig",
+                                                "key": "eGVQJR2Oa",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "nodes": [
                                                     {
-                                                        "key": "cQbLCf00Xl",
+                                                        "key": "eGVQJR1DL",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "isLeaf": true
@@ -55,31 +55,31 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-cQb9QY0063",
+            "key": "δ-eGVQJR2AP",
             "relativePath": "./δ steps/δ-cQb9QY0063.tsstp"
         },
         {
-            "key": "δ-cQbE5p004q",
+            "key": "δ-eGVQJR0K1",
             "relativePath": "./δ steps/δ-cQbE5p004q.tsstp"
         },
         {
-            "key": "δ-cQbFez001e",
+            "key": "δ-eGVQJR0rZ",
             "relativePath": "./δ steps/δ-cQbFez001e.tsstp"
         },
         {
-            "key": "δ-cQbHCh01P3",
+            "key": "δ-eGVQJR1z2",
             "relativePath": "./δ steps/δ-cQbHCh01P3.tsstp"
         },
         {
-            "key": "δ-cQbIaW02Vm",
+            "key": "δ-eGVQJR0vj",
             "relativePath": "./δ steps/δ-cQbIaW02Vm.tsstp"
         },
         {
-            "key": "δ-cQbJr600ig",
+            "key": "δ-eGVQJR2Oa",
             "relativePath": "./δ steps/δ-cQbJr600ig.tsstp"
         },
         {
-            "key": "δ-cQbLCf00Xl",
+            "key": "δ-eGVQJR1DL",
             "relativePath": "./δ steps/δ-cQbLCf00Xl.tsstp"
         }
     ],

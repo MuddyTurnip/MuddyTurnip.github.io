@@ -1,37 +1,37 @@
 {
-    "key": "eFy7WH1RU",
+    "key": "eGXo6I1ag",
     "token": "0AdministrationAndSetup",
     "name": "0-AdministrationAndSetup",
     "created": "2025-03-13T15:31:46.197Z",
     "list": true,
     "publishFileName": "0-Administration-and-Setup",
-    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Overview/0-AdministrationAndSetup/0-AdministrationAndSetup.tsmap",
+    "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Overview/Ξ 0-AdministrationAndSetup/0-AdministrationAndSetup.tsmap",
     "iText": "Link to '0-AdministrationAndSetup'",
     "___rΩΩt___": {
-        "key": "eFy7WH1ML",
+        "key": "eGXo6I0Tm",
         "nodes": [
             {
-                "key": "eFy7WH1Xg",
+                "key": "eGXo6I1xR",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "eFy7WH19P",
+                        "key": "eGXo6I1Vv",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "eFy7WH1Yi",
+                                "key": "eGXo6I0bM",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "eFy7WH1b0",
+                                        "key": "eGXo6I0qf",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "eFy7WH0TQ",
+                                                "key": "eGXo6I09w",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "isLeaf": true
@@ -48,33 +48,33 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-eFy7WH1ML",
+            "key": "δ-eGXo6I0Tm",
             "relativePath": "./δ steps/δ-cLjzQe025e.tsstp"
         },
         {
-            "key": "δ-eFy7WH1Xg",
+            "key": "δ-eGXo6I1xR",
             "relativePath": "./δ steps/δ-cLqjLv01ZV.tsstp"
         },
         {
-            "key": "δ-eFy7WH19P",
+            "key": "δ-eGXo6I1Vv",
             "relativePath": "./δ steps/δ-cLqmFS0203.tsstp"
         },
         {
-            "key": "δ-eFy7WH1Yi",
+            "key": "δ-eGXo6I0bM",
             "relativePath": "./δ steps/δ-cLqowz015S.tsstp"
         },
         {
-            "key": "δ-eFy7WH1b0",
+            "key": "δ-eGXo6I0qf",
             "relativePath": "./δ steps/δ-cLqrEB02Wa.tsstp"
         },
         {
-            "key": "δ-eFy7WH0TQ",
+            "key": "δ-eGXo6I09w",
             "relativePath": "./δ steps/δ-cLqtb7001C.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "eDibtk02P1",
-        "editorID": "me_dc695aa54a2f4daaa4263e7873426896",
-        "ticks": 1743593637764
+        "id": "eGOirG2Zj",
+        "editorID": "da_() => {\n        const extensions = vscode.extensions;\n        const docsAssember = extensions.getExtension('netoftrees.documentation-assembler');\n        if (docsAssember) {\n            return docsAssember.packageJSON.version;\n        }\n        return null;\n    }",
+        "ticks": 1743633226966
     }
 }
