@@ -1,5 +1,5 @@
 {
-    "key": "cQicnb01MB  ",
+    "key": "eG77zI212",
     "token": "1Gettingstarteddecode",
     "name": "1-GettingStarted-decode",
     "created": "2025-03-14T11:57:47.931Z",
@@ -8,70 +8,70 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/Ξ 1-GettingStarted-decode/1-GettingStarted-decode.tsmap",
     "iText": "Link to '1-GettingStarted-decode'",
     "___rΩΩt___": {
-        "key": "cQieHo00Iv",
+        "key": "eG77zI29X",
         "nodes": [
             {
-                "key": "cQijMh01ox",
+                "key": "eG77zI1Nf",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "cQikmm021D",
+                        "key": "eG77zI1vu",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "cQilul00ig",
+                                "key": "eG77zI2Xa",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "cQinD7028U",
+                                        "key": "eG77zI1OD",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "cQiooI012Z",
+                                                "key": "eG77zI0Yw",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "nodes": [
                                                     {
-                                                        "key": "cQiq73012P",
+                                                        "key": "eG77zI1dP",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "cQirr1022e",
+                                                                "key": "eG77zI2WG",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "cQitJM02UP",
+                                                                        "key": "eG77zI1W7",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "cQiv9G01xe",
+                                                                                "key": "eG77zI1Ag",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "cQixGF015D",
+                                                                                        "key": "eG77zI1Ve",
                                                                                         "order": 1,
                                                                                         "option": "Next",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "cQiyVN02NY",
+                                                                                                "key": "eG77zI142",
                                                                                                 "order": 1,
                                                                                                 "option": "Next",
                                                                                                 "nodes": [
                                                                                                     {
-                                                                                                        "key": "cQj03u02HQ",
+                                                                                                        "key": "eG77zI242",
                                                                                                         "order": 1,
                                                                                                         "option": "Next",
                                                                                                         "nodes": [
                                                                                                             {
-                                                                                                                "key": "cQj1Ic02AO",
+                                                                                                                "key": "eG77zI0vM",
                                                                                                                 "order": 1,
                                                                                                                 "option": "Next",
                                                                                                                 "isLeaf": true
@@ -104,59 +104,59 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-cQieHo00Iv",
+            "key": "δ-eG77zI29X",
             "relativePath": "./δ steps/δ-cQieHo00Iv.tsstp"
         },
         {
-            "key": "δ-cQijMh01ox",
+            "key": "δ-eG77zI1Nf",
             "relativePath": "./δ steps/δ-cQijMh01ox.tsstp"
         },
         {
-            "key": "δ-cQikmm021D",
+            "key": "δ-eG77zI1vu",
             "relativePath": "./δ steps/δ-cQikmm021D.tsstp"
         },
         {
-            "key": "δ-cQilul00ig",
+            "key": "δ-eG77zI2Xa",
             "relativePath": "./δ steps/δ-cQilul00ig.tsstp"
         },
         {
-            "key": "δ-cQinD7028U",
+            "key": "δ-eG77zI1OD",
             "relativePath": "./δ steps/δ-cQinD7028U.tsstp"
         },
         {
-            "key": "δ-cQiooI012Z",
+            "key": "δ-eG77zI0Yw",
             "relativePath": "./δ steps/δ-cQiooI012Z.tsstp"
         },
         {
-            "key": "δ-cQiq73012P",
+            "key": "δ-eG77zI1dP",
             "relativePath": "./δ steps/δ-cQiq73012P.tsstp"
         },
         {
-            "key": "δ-cQirr1022e",
+            "key": "δ-eG77zI2WG",
             "relativePath": "./δ steps/δ-cQirr1022e.tsstp"
         },
         {
-            "key": "δ-cQitJM02UP",
+            "key": "δ-eG77zI1W7",
             "relativePath": "./δ steps/δ-cQitJM02UP.tsstp"
         },
         {
-            "key": "δ-cQiv9G01xe",
+            "key": "δ-eG77zI1Ag",
             "relativePath": "./δ steps/δ-cQiv9G01xe.tsstp"
         },
         {
-            "key": "δ-cQixGF015D",
+            "key": "δ-eG77zI1Ve",
             "relativePath": "./δ steps/δ-cQixGF015D.tsstp"
         },
         {
-            "key": "δ-cQiyVN02NY",
+            "key": "δ-eG77zI142",
             "relativePath": "./δ steps/δ-cQiyVN02NY.tsstp"
         },
         {
-            "key": "δ-cQj03u02HQ",
+            "key": "δ-eG77zI242",
             "relativePath": "./δ steps/δ-cQj03u02HQ.tsstp"
         },
         {
-            "key": "δ-cQj1Ic02AO",
+            "key": "δ-eG77zI0vM",
             "relativePath": "./δ steps/δ-cQj1Ic02AO.tsstp"
         }
     ],

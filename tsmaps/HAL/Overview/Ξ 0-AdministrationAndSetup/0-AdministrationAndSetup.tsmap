@@ -1,5 +1,5 @@
 {
-    "key": "cLjy2000fw  ",
+    "key": "eFy7WH1RU",
     "token": "0AdministrationAndSetup",
     "name": "0-AdministrationAndSetup",
     "created": "2025-03-13T15:31:46.197Z",
@@ -8,30 +8,30 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Overview/0-AdministrationAndSetup/0-AdministrationAndSetup.tsmap",
     "iText": "Link to '0-AdministrationAndSetup'",
     "___rΩΩt___": {
-        "key": "cLjzQe025e",
+        "key": "eFy7WH1ML",
         "nodes": [
             {
-                "key": "cLqjLv01ZV",
+                "key": "eFy7WH1Xg",
                 "order": 1,
                 "option": "Next",
                 "nodes": [
                     {
-                        "key": "cLqmFS0203",
+                        "key": "eFy7WH19P",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "cLqowz015S",
+                                "key": "eFy7WH1Yi",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "cLqrEB02Wa",
+                                        "key": "eFy7WH1b0",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "cLqtb7001C",
+                                                "key": "eFy7WH0TQ",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "isLeaf": true
@@ -48,27 +48,27 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-cLjzQe025e",
+            "key": "δ-eFy7WH1ML",
             "relativePath": "./δ steps/δ-cLjzQe025e.tsstp"
         },
         {
-            "key": "δ-cLqjLv01ZV",
+            "key": "δ-eFy7WH1Xg",
             "relativePath": "./δ steps/δ-cLqjLv01ZV.tsstp"
         },
         {
-            "key": "δ-cLqmFS0203",
+            "key": "δ-eFy7WH19P",
             "relativePath": "./δ steps/δ-cLqmFS0203.tsstp"
         },
         {
-            "key": "δ-cLqowz015S",
+            "key": "δ-eFy7WH1Yi",
             "relativePath": "./δ steps/δ-cLqowz015S.tsstp"
         },
         {
-            "key": "δ-cLqrEB02Wa",
+            "key": "δ-eFy7WH1b0",
             "relativePath": "./δ steps/δ-cLqrEB02Wa.tsstp"
         },
         {
-            "key": "δ-cLqtb7001C",
+            "key": "δ-eFy7WH0TQ",
             "relativePath": "./δ steps/δ-cLqtb7001C.tsstp"
         }
     ],
