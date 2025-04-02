@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eE3imH0rd","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/0-Administration-and-Setup_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eGdDZQ1G8","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/0-Administration-and-Setup_frags"}} -->
 
 ## 0. Administration and Setup
 
@@ -33,24 +33,24 @@ In this tutorial you will learn how to install the HAL Robotics Framework from t
 In order to install and use the HAL Robotics Framework, you will first need to [create your account on the HAL user portal](https://user.hal-robotics.com/Account/Register).
 If you already have an account, you can simply [login to the user portal](https://user.hal-robotics.com/Account/Login). 
 
-[<img src="../assets/images/Overview/01UserPortalRegister.PNG">](../assets/images/Overview/01UserPortalRegister.PNG)
+[<img src="/HAL/assets/images/Overview/01UserPortalRegister.PNG">](/HAL/assets/images/Overview/01UserPortalRegister.PNG)
 <em>Register using a valid email address, as it will be used for support and licensing.</em>
 
-[<img src="../assets/images/Overview/01UserPortalRegistration.PNG">](../assets/images/Overview/01UserPortalRegistration.PNG)
+[<img src="/HAL/assets/images/Overview/01UserPortalRegistration.PNG">](/HAL/assets/images/Overview/01UserPortalRegistration.PNG)
 <em>Upon validation of your registration details, please verify that our confirmation email is not blocked by your spam filter.</em>
 
-[<img src="../assets/images/Overview/01UserPortalRegistrationConfirmation.PNG">](../assets/images/Overview/01UserPortalRegistrationConfirmation.PNG)
+[<img src="/HAL/assets/images/Overview/01UserPortalRegistrationConfirmation.PNG">](/HAL/assets/images/Overview/01UserPortalRegistrationConfirmation.PNG)
 <em>A final registration confirmation will be displayed once you click on the link you received via email.</em>
 
-[<img src="../assets/images/Overview/01UserPortalLogin.PNG">](../assets/images/Overview/01UserPortalLogin.PNG)
+[<img src="/HAL/assets/images/Overview/01UserPortalLogin.PNG">](/HAL/assets/images/Overview/01UserPortalLogin.PNG)
 <em>The login page simply requires your email and password.</em>
 
 On the home page you should see a _Downloads_ tab which will give you a link to [download the HAL Robotics Framework](https://halinstaller.blob.core.windows.net/windows/HALRoboticsFramework.exe). By clicking on that link, you will download the HAL Robotics Framework Installer. 
 
-[<img src="../assets/images/Overview/01UserPortal.PNG">](../assets/images/Overview/01UserPortal.PNG)
+[<img src="/HAL/assets/images/Overview/01UserPortal.PNG">](/HAL/assets/images/Overview/01UserPortal.PNG)
 <em>The [user portal](https://user.hal-robotics.com/) Downloads page.</em>
 
-[<img src="../assets/images/Overview/01SetupExe.PNG" style="display:block">](../assets/images/Overview/01SetupExe.PNG)
+[<img src="/HAL/assets/images/Overview/01SetupExe.PNG" style="display:block">](/HAL/assets/images/Overview/01SetupExe.PNG)
 <em>The downloaded "Setup.exe" application will install the HAL Robotics Framework Installer.</em>
 v
 Once the download is complete, run the installer and you should see a list of all available packages and extensions. 
@@ -60,19 +60,19 @@ Every time there are updates available for the packages you have installed simpl
 
 Once the installation is complete you have successfully installed the HAL Robotics Framework.
 
-[<img src="../assets/images/Overview/01InstallerDisclaimer.PNG">](../assets/images/Overview/01InstallerDisclaimer.PNG)
+[<img src="/HAL/assets/images/Overview/01InstallerDisclaimer.PNG">](/HAL/assets/images/Overview/01InstallerDisclaimer.PNG)
 <em>Important information is displayed during the installation phases, please take notice of these elements before using the software.</em>
 
-[<img src="../assets/images/Overview/01InstallerPackages.PNG">](../assets/images/Overview/01InstallerPackages.PNG)
+[<img src="/HAL/assets/images/Overview/01InstallerPackages.PNG">](/HAL/assets/images/Overview/01InstallerPackages.PNG)
 <em>The HAL Robotics Framework is composed of functionality modules. The installer lets you select the ones you wish to install.</em>
 
-[<img src="../assets/images/Overview/01InstallerPackageLicenses.PNG">](../assets/images/Overview/01InstallerPackageLicenses.PNG)
+[<img src="/HAL/assets/images/Overview/01InstallerPackageLicenses.PNG">](/HAL/assets/images/Overview/01InstallerPackageLicenses.PNG)
 <em>Each module is distributed with a corresponding End-User License Agreement (EULA), please take notice of these elements before using the software.</em>
 
-[<img src="../assets/images/Overview/01InstallerProgress.PNG">](../assets/images/Overview/01InstallerProgress.PNG)
+[<img src="/HAL/assets/images/Overview/01InstallerProgress.PNG">](/HAL/assets/images/Overview/01InstallerProgress.PNG)
 <em>Upon validation of the module selection, the installer will download and install each module and the corresponding dependencies.</em>
 
-[<img src="../assets/images/Overview/01InstallerComplete.PNG">](../assets/images/Overview/01InstallerComplete.PNG)
+[<img src="/HAL/assets/images/Overview/01InstallerComplete.PNG">](/HAL/assets/images/Overview/01InstallerComplete.PNG)
 <em>You can exit the installer once the setup is complete.</em>
 
 ---
@@ -109,18 +109,18 @@ Click on the "Create" button at the top of the tab. There are a few details that
 
 * All other information is optional but will help to automatically populate information when requesting quotes or purchasing information.
 
-[<img align="left" src="../assets/images/Overview/02CreateOrganization.PNG">](../assets/images/Overview/02CreateOrganization.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/02CreateOrganization.PNG">](/HAL/assets/images/Overview/02CreateOrganization.PNG)
 <em>Fill the organization creation form then validate using the Create button.</em>
 
 Click "Request Creation" and you will be redirected to your "Organizations" tab. Once the organization has been confirmed by the HAL Robotics team, you can view the members and licenses of the organization, and purchase licenses on the organization's behalf. You can use the "Members" tab to toggle the admin status of members or remove them. The "Licenses" tab can be used to check which licenses are in use and when they expire.
 
-[<img align="left" src="../assets/images/Overview/02Organizations.PNG">](../assets/images/Overview/02Organizations.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/02Organizations.PNG">](/HAL/assets/images/Overview/02Organizations.PNG)
 <em>The "Organizations" tab displays your memberships.</em>
 
-[<img align="left" src="../assets/images/Overview/02OrganizationMembers.PNG">](../assets/images/Overview/02OrganizationMembers.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/02OrganizationMembers.PNG">](/HAL/assets/images/Overview/02OrganizationMembers.PNG)
 <em>The "Members" tab of an organization displays members and their roles.</em>
 
-[<img align="left" src="../assets/images/Overview/02OrganizationLicenses.PNG">](../assets/images/Overview/02OrganizationLicenses.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/02OrganizationLicenses.PNG">](/HAL/assets/images/Overview/02OrganizationLicenses.PNG)
 <em>The "Licenses" tab of an organization displays licenses and their status.</em>
 
 ---
@@ -146,7 +146,7 @@ Start by browsing to the [user portal](https://user.hal-robotics.com/) and [logg
 
 Click on "Join" at the top of the page. Here you will be asked for the organization's name and passphrase. If you don't know these details for your organization please ask to your I.T. department or HAL Robotics Framework admin as they will have access to these details. If your organization isn't found please check the spacing, punctuation and casing of both entries.
 
-[<img align="left" src="../assets/images/Overview/03JoinOrganization.PNG">](../assets/images/Overview/03JoinOrganization.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/03JoinOrganization.PNG">](/HAL/assets/images/Overview/03JoinOrganization.PNG)
 <em>The "Join" tab will allow you to join your organization and access its licenses.</em>
 
 ---
@@ -185,10 +185,10 @@ Once you have entered all of your information you can "Buy Now" or "Request" you
 
 If you do have "Buy Now" as an option, and most people should, then your invoice should open in a new tab. If it doesn't, don't worry, there will be a link to it in the summary text on the web page and you will receive it by email too. This invoice will give you links to our secure payment providers through which you can pay online. As soon as your payment clears, your licenses will be issued and we will confirm this by email.
 
-[<img align="left" src="../assets/images/Overview/04PurchaseLicense.PNG">](../assets/images/Overview/04PurchaseLicense.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/04PurchaseLicense.PNG">](/HAL/assets/images/Overview/04PurchaseLicense.PNG)
 <em>The "Purchase Licenses" tab will allow you to purchase or renew you HAL Robotics Framework licenses.</em>
 
-[<img align="left" src="../assets/images/Overview/04RequestLicense.PNG">](../assets/images/Overview/04RequestLicense.PNG)
+[<img align="left" src="/HAL/assets/images/Overview/04RequestLicense.PNG">](/HAL/assets/images/Overview/04RequestLicense.PNG)
 <em>If we need to manually validate the license type you have requested, you may be asked to "Request" your licenses, rather than to "Buy Now".</em>
 
 ---
@@ -218,4 +218,4 @@ Once this is done you can clean up any remnants that the uninstallation process 
 
 ---
 
-Continue to: 1. Getting Started for [_decode_](../decode/1-Getting-Started.md#1-getting-started) or the [Grasshopper SDK](../Grasshopper/1-Getting-Started.md#1-getting-started)
+Continue to: 1. Getting Started for [_decode_](/HAL/decode/1-Getting-Started.md#1-getting-started) or the [Grasshopper SDK](/HAL/Grasshopper/1-Getting-Started.md#1-getting-started)
