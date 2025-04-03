@@ -2,28 +2,31 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eE3jnM1YX","path":"","fragmentFolderPath":"Index_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eMSLxV2E0","path":"","fragmentFolderPath":"index_frags"}} -->
 
 # Docs Assembler GitHub Pages Demos
 
 ---
 
-[<img class="nt-fr-logo" src="./assets/images/_netOfTrees.icon-white-black.svg">](./assets/images/_netOfTrees.icon-white-black.svg)
+[<img class="nt-fr-logo" src="/assets/images/_netOfTrees.icon-white-black.png">](/assets/images/_netOfTrees.icon-white-black.png)
+
+
+[<img class="nt-fr-logo" src="/assets/images/_netOfTrees.icon-white-outline.png">](/assets/images/_netOfTrees.icon-white-outline.png)
 
 ---
 
 ## Single pathway map
 
-A book or a manual has a single pathway of insructions.
+A book or a manual has a single pathway of instructions.
 
-Coming soon...
+[DeLorean Time Machine Technical Manual]{{ll.dec decode2Cell_map_link}}
 
 
 ## Multiple pathway map
 
 If a step has two outomes or options it branches into two pathways.
 
-### [DeLorean Time Machine Technical Manual](./BackToTheFuture/DeLorean-Time-Machine-Technical-Manual.md)
+[DeLorean Time Machine Technical Manual](/BackToTheFuture/DeLorean-Time-Machine-Technical-Manual)
 
 
 ## Maps within maps
