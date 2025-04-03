@@ -1,8 +1,4 @@
---- 
-
----
-
-:root {
+--- ---:root {
     --border-radius: 0.25rem;
 }
 
@@ -124,4 +120,9 @@
             }
         }
     }
+}
+
+a>img {
+    margin: 5px 10px 0 0;
+    float: left;
 }

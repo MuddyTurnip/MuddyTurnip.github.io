@@ -1,4 +1,4 @@
---- --- :root {
+--- ---:root {
   --border-radius: 0.25rem;
 }
 
@@ -87,4 +87,9 @@
   box-sizing: border-box;
   color: var(--button-color);
   margin: 0;
+}
+
+a > img {
+  margin: 5px 10px 0 0;
+  float: left;
 }
