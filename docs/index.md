@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eMSLxV2E0","path":"","fragmentFolderPath":"index_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eMUXyU17T","path":"","fragmentFolderPath":"index_frags"}} -->
 
 # Docs Assembler GitHub Pages Demos
 
@@ -19,7 +19,7 @@
 
 A book or a manual has a single pathway of instructions.
 
-[DeLorean Time Machine Technical Manual]{{ll.dec decode2Cell_map_link}}
+[DeLorean Time Machine Technical Manual](/HAL/decode/2-Cell)
 
 
 ## Multiple pathway map
