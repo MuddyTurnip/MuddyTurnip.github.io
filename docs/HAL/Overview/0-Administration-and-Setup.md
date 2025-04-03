@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eGdDZQ1G8","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/0-Administration-and-Setup_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eMJc4B29Q","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/0-Administration-and-Setup_frags"}} -->
 
 ## 0. Administration and Setup
 
@@ -218,4 +218,4 @@ Once this is done you can clean up any remnants that the uninstallation process 
 
 ---
 
-Continue to: 1. Getting Started for [_decode_](/HAL/decode/1-Getting-Started.md#1-getting-started) or the [Grasshopper SDK](/HAL/Grasshopper/1-Getting-Started.md#1-getting-started)
+Continue to: 1. Getting Started for [_decode_](/HAL/decode/1-Getting-Started#1-getting-started) or the [Grasshopper SDK](/HAL/Grasshopper/1-Getting-Started#1-getting-started)

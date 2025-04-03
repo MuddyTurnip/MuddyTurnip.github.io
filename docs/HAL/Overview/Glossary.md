@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eGdDXp1KY","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eMJc2I1BQ","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
 
 ## 7. Glossary
 
@@ -207,6 +207,6 @@ these are how we organize what a [controller](#controller) can do and draw paral
 #### subsystems
 _a.k.a. options_
 
-these are similar to the options you have in your [controller](#controller). They are the actual software modules that implement different [capabilities](#capabilities). Details of different _subsytems_ can be found in the [manufacturer-specific documentation](/HAL/Manufacturers.md).
+these are similar to the options you have in your [controller](#controller). They are the actual software modules that implement different [capabilities](#capabilities). Details of different _subsytems_ can be found in the [manufacturer-specific documentation](/HAL/Manufacturers).
 
 ---

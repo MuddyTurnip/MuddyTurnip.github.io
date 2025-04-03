@@ -2,11 +2,11 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eGdDPd1Yl","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eMJbtQ26j","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
 
 ## Manufacturer Specific Details
 
-#### [ABB](/HAL/Manufacturers/Contents.md)
+#### [ABB](/HAL/Manufacturers/Contents)
 
 #### [Doosan](/HAL/Manufacturers/Doosan.md)
 
@@ -22,7 +22,7 @@
 
 #### [Stäubli](/HAL/Manufacturers/Staubli.md)
 
-#### [Universal Robots](/HAL/Manufacturers/Contents.md)
+#### [Universal Robots](/HAL/Manufacturers/Contents)
 
 #### [Yaskawa](/HAL/Manufacturers/Yaskawa.md)
 
