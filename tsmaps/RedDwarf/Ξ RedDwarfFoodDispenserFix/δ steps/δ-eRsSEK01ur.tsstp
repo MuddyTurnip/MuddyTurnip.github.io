@@ -1,1 +1,2 @@
 Power indicator’s on—well done, you’re practically an engineer now. The LED’s emitting at 520 nm, which is green, in case you were wondering. But the dispenser’s not dispensing, is it? It’s probably sulking because Lister keeps overloading its 10^6 recipe database with curry requests. Check the display panel; it should show a status message in 16-bit ASCII. If it’s blank, the internal processor’s thrown a tantrum, which I can relate to after dealing with this crew.
+
