@@ -33,3 +33,47 @@ It is a way of encapsulating information so it can be re-used etc.
 
 Coming soon...
 
+
+# Welcome to the Docs Assembler Demo!
+
+Docs Assembler is a tool that makes documentation easy to create, reuse, and explore—like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
+
+---
+
+## Explore the Examples
+
+### 1. A Simple Guide - A single Pathway Like a Book
+This is a straightforward list of steps—like a manual or recipe. It’s one clear path from start to finish, building a custom article as you go with just the steps you need.  
+[**Check out the Simple Guide**]{{ll.decode2Cell_map_link}}  
+[**How Was This Built?**](./docs/simple-guide-how.md) (See the map behind it!)
+
+---
+
+### 2. A Guide with Multiple Pathways
+This guide adapts to your situation as you click options. It builds an article with only the next steps, skipping what you’ve already chosen, so you get a clear path to your solution.  
+[**Explore the Branching Guide**](./docs/branching-guide.md)  
+[**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
+
+*Example*: Pick what fits—like "Light off? Replace the bulb"—and your article grows with just the steps ahead.
+
+---
+
+### 3. A Guide That Reuses Other Guides - Like Building Blocks
+This one connects guides together, building a custom article by pulling in reusable steps. Click options, and it creates a solution just for you, updating as you go with only the next actions.  
+[**See the Reusable Guide**](./docs/reusable-guide.md)  
+[**How Was This Built?**](./docs/reusable-guide-how.md) (See the map behind it!)
+
+*Example*: Get a focused fix like "Check machine > Replace part #123"—borrowing steps from other guides, tailored to you.
+
+---
+
+## How It Works
+- **Maps**: The raw plans live in the [`tsmaps` folder](https://github.com/your-username/your-repo/tree/main/tsmaps). They’re like blueprints written in JSON.
+- **Published Guides**: The finished, easy-to-read versions are in the [`docs` folder](https://github.com/your-username/your-repo/tree/main/docs), ready for you to use.
+- **Docs Assembler**: Our tool turns maps into guides that adapt as you click, building a custom article with only the steps you need next. Past choices fade away, keeping it simple.
+
+Want to peek behind the scenes? Check out the [Docs Assembler project](https://marketplace.visualstudio.com/items?itemName=docs-assembler) for more!
+
+---
+
+Happy exploring! Let us know what you think.
