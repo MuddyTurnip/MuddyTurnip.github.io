@@ -3,13 +3,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>
-    {% if page.title == "Home" %}
-    {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
+    {% if page.title %}
+      {{ page.title }}
+    {% elsif page.content | strip_html | strip_newlines | size > 0 %}
+      {% assign first_content = page.content %}
+      {% if first_content contains "<h1>" or first_content contains "<h2>" or first_content contains "<h3>" or first_content contains "<h4>" or first_content contains "<h5>" or first_content contains "<h6>" %}
+        {% if first_content contains "<h1>" %}
+          {{ first_content | split: "</h1>" | first | split: "<h1>" | last | strip_html | strip }}
+        {% elsif first_content contains "<h2>" %}
+          {{ first_content | split: "</h2>" | first | split: "<h2>" | last | strip_html | strip }}
+        {% elsif first_content contains "<h3>" %}
+          {{ first_content | split: "</h3>" | first | split: "<h3>" | last | strip_html | strip }}
+        {% elsif first_content contains "<h4>" %}
+          {{ first_content | split: "</h4>" | first | split: "<h4>" | last | strip_html | strip }}
+        {% elsif first_content contains "<h5>" %}
+          {{ first_content | split: "</h5>" | first | split: "<h5>" | last | strip_html | strip }}
+        {% elsif first_content contains "<h6>" %}
+          {{ first_content | split: "</h6>" | first | split: "<h6>" | last | strip_html | strip }}
+        {% endif %}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
     {% else %}
-    {{ page.title }} &middot; {{ site.title }}
+      {{ site.title }}
     {% endif %}
   </title>
-
   <link rel="shortcut icon" href="/assets/images/favicon-4e1f1aa6.ico">
 
   <link rel="stylesheet" href="{{ '/assets/pooleStyles.css' }}">

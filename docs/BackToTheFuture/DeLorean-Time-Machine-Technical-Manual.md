@@ -1,7 +1,0 @@
----
----
-
-
-<!-- tsGuideRenderComment {"guide":{"id":"eMJbfv1sR","path":"BackToTheFuture","fragmentFolderPath":"BackToTheFuture/DeLorean-Time-Machine-Technical-Manual_frags"},"fragment":{"id":"eMJbfv1sR","topLevelMapKey":"eGVQJj24d","mapKeyChain":"eGVQJj24d","guideID":"eMJbfv2aj","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/BackToTheFuture/DeLoreanTimeMachineTechnicalManual.tsmap","parentFragmentID":null,"chartKey":"eGVQJj24d","options":[{"id":"eMJbgA1lv","option":"The DeLorean exhibits no operational response","isAncillary":false,"order":1},{"id":"eMJbjD1Au","option":"She activates but fails to achieve temporal displacement","isAncillary":false,"order":2},{"id":"eMJbly0bj","option":"Displacement occurs, but the spatiotemporal coordinates are erroneous","isAncillary":false,"order":3}]}} -->
-
-Greetings, fellow seeker of knowledge! I am Dr. Emmett L. Brown, Ph.D., inventor of the world’s first functional temporal displacement device: the DeLorean DMC-12 Time Machine. If you’ve unearthed this manual, you’ve likely acquired my prototype—perhaps from a scrapyard in 1985 or a cave in 1885. Congratulations on your find! Alas, if she’s not piercing the Einsteinian fabric at 88 miles per hour, we’ve got a conundrum. This guide assumes familiarity with quantum electrodynamics and a tolerance for my… unorthodox methods. Let’s diagnose the anomaly—whether it’s a power deficit, a temporal misfire, or a navigational drift. What’s the primary malfunction?
