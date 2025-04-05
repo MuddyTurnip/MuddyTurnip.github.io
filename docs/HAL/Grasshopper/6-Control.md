@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSgGky0Gf","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eV7itf2Qx","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"}} -->
 
 ## 6. Control
 

@@ -1,0 +1,13 @@
+¬import ll from "../../shared/localLinks"
+
+
+## Explore the Examples
+
+### 1. A Simple Guide (A single path like a book)
+
+This is a straightforward list of steps — like in a manual or recipe. It’s just one path from start to finish.  
+
+[**Holly's Guide To Fix Red Dwarf Food Dispenser**]{{ll.redDwarfFoodDispenserFix_map_link}} 
+
+[**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
+

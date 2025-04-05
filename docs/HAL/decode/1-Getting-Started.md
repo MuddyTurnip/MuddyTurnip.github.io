@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSgH2W04y","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eV7jHW0tK","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"}} -->
 
 ## 1. Getting Started
 

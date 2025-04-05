@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSgH3B1Uh","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eV7jIC1iw","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
 
 ## Manufacturer Specific Details
 

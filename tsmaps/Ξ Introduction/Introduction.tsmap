@@ -9,17 +9,83 @@
     "iText": "Link to 'Introduction'",
     "___rΩΩt___": {
         "key": "e9Uu6n02EN",
-        "isLeaf": true
+        "nodes": [
+            {
+                "key": "eUisy401Ok",
+                "order": 1,
+                "option": "Next",
+                "nodes": [
+                    {
+                        "key": "eUixOe02UD",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "eUj4o400j9",
+                                "order": 1,
+                                "option": "Next",
+                                "nodes": [
+                                    {
+                                        "key": "eUjDCW02LE",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "nodes": [
+                                            {
+                                                "key": "eUjNIT029P",
+                                                "order": 1,
+                                                "option": "Next",
+                                                "nodes": [
+                                                    {
+                                                        "key": "eUjT7O01FL",
+                                                        "order": 1,
+                                                        "option": "Next",
+                                                        "isLeaf": true
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     "___αssεts___": [
         {
             "key": "δ-e9Uu6n02EN",
             "relativePath": "./δ steps/δ-e9Uu6n02EN.tsstp"
+        },
+        {
+            "key": "δ-eUisy401Ok",
+            "relativePath": "./δ steps/δ-eUisy401Ok.tsstp"
+        },
+        {
+            "key": "δ-eUixOe02UD",
+            "relativePath": "./δ steps/δ-eUixOe02UD.tsstp"
+        },
+        {
+            "key": "δ-eUj4o400j9",
+            "relativePath": "./δ steps/δ-eUj4o400j9.tsstp"
+        },
+        {
+            "key": "δ-eUjDCW02LE",
+            "relativePath": "./δ steps/δ-eUjDCW02LE.tsstp"
+        },
+        {
+            "key": "δ-eUjNIT029P",
+            "relativePath": "./δ steps/δ-eUjNIT029P.tsstp"
+        },
+        {
+            "key": "δ-eUjT7O01FL",
+            "relativePath": "./δ steps/δ-eUjT7O01FL.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "eMSK7d0016",
-        "editorID": "car_79373c541f5845acadf8c58318beebea",
-        "ticks": 1743722743209
+        "id": "eUjlTz003T",
+        "editorID": "car_53fee969218c4d4fb9225d43dee25f70",
+        "ticks": 1743845110647
     }
 }

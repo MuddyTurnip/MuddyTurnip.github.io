@@ -1,0 +1,7 @@
+## How It Works
+
+- **Maps**: The raw plans live in the [`tsmaps` folder](https://github.com/your-username/your-repo/tree/main/tsmaps). They’re like blueprints written in JSON.
+- **Published Guides**: The finished, easy-to-read versions are in the [`docs` folder](https://github.com/your-username/your-repo/tree/main/docs), ready for you to use.
+- **Docs Assembler**: Our tool turns maps into guides that adapt as you click, building a custom article with only the steps you need next. Past choices fade away, keeping it simple.
+
+Want to peek behind the scenes? Check out the [Docs Assembler project](https://marketplace.visualstudio.com/items?itemName=docs-assembler) for more!

@@ -1,0 +1,12 @@
+### 4. A Guide That Reuses Other Guides - Like Building Blocks
+
+To the user this guide is the same as the one in 3. But for the author this is where the power of maps lies.  
+And author can build a map on how to use a digital multi-meter and then re-use in multiple steps in a map for fixing a washing machine, or a car, or a lift.  
+They build the steps for multi-meter map once. When they update that map it updates everywhere. 
+
+
+Combine map re-use with sharedable steps, variables, self-adjusting links, intellisense, validation, markdown, git, vscode and GitHub Pages and it becomes a powerful labour saving tool, like software. 
+
+
+Coming soon...
+
