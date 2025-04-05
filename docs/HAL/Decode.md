@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eV7iZx0Z2","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eVmGzJ0wI","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"}} -->
 
 <img class="logo" src="../assets/images/decode/logo.png" height="35">
 

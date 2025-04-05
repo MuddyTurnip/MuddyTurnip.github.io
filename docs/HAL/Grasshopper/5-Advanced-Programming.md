@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eV7iw00BQ","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/5-Advanced-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eVmHWJ1lo","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/5-Advanced-Programming_frags"}} -->
 
 ## 5. Advanced Programming
 

@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eV7iO21pc","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eVmGh92SN","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"}} -->
 
 ## 4. IO
 

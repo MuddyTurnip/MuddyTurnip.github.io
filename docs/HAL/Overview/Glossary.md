@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eV7jQD0Lr","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eVmIFu2Bt","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
 
 ## 7. Glossary
 
