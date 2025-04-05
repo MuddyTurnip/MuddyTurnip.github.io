@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSafwo2JH","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSc3Z20bi","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"}} -->
 
 ## 4. IO
 

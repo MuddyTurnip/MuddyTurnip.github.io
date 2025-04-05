@@ -1,1 +1,2 @@
 Chute’s clear — well, I’m mildly impressed. The flow rate should be back to 0.7 kg/s, assuming you didn’t botch it. The display should now read ‘READY,’ indicating the diagnostic passed its 10^3-point checklist. If it’s still ‘INITIALIZING,’ I might’ve miscalculated the boot time, which wouldn’t be the first time — I once forgot where seven goes in a countdown. Let’s assume it’s ready and move on.
+

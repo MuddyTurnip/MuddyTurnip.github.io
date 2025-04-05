@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSag4T0TF","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/1-Getting-Started_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSc3fc1BJ","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/1-Getting-Started_frags"}} -->
 
 ## 1. Getting Started
 

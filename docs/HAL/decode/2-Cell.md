@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSagBS1Iz","path":"HAL/decode","fragmentFolderPath":"HAL/decode/2-Cell_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSc3nY2Ir","path":"HAL/decode","fragmentFolderPath":"HAL/decode/2-Cell_frags"}} -->
 
 ## 2. Cell Setup
 

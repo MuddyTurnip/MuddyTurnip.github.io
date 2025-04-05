@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSagyX232","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSc4SK04u","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix_frags"}} -->
 
 Greetings, you culinary disaster. I am Holly, the Red Dwarf’s tenth-generation AI, with an IQ of 6,000 — allegedly. Three million years of isolation might’ve scrambled my circuits, but I’m still leagues ahead of you lot, which isn’t saying much. The food dispenser’s gone kaput again, hasn’t it? Probably Lister’s fault for demanding curry 47 times a day. Let’s start with the basics: check the dispenser’s power indicator on the front panel. It’s the little LED that should be green — unless I’ve forgotten what green looks like, which is entirely possible.
 
@@ -13,18 +13,34 @@ A loose cable — shocking, truly. The power cable’s a 12-gauge copper conduct
 Power indicator’s on — well done, you’re practically an engineer now. The LED’s emitting at 520 nm, which is green, in case you were wondering. But the dispenser’s not dispensing, is it? It’s probably sulking because Lister keeps overloading its 10^6 recipe database with curry requests. Check the display panel; it should show a status message in 16-bit ASCII. If it’s blank, the internal processor’s thrown a tantrum, which I can relate to after dealing with this crew.
 
 Blank display — brilliant. It’s as informative as Rimmer’s career prospects. The dispenser’s processor, a 32-bit microcontroller with a 1 GHz clock speed, has likely gone into a low-power state due to a thermal overload. It’s rated for 70°C, but Lister’s spicy orders push it to 85°C, tripping the safety circuit. Tap the panel three times with a 2 N force — it’s a manual override I programmed a million years ago. If that doesn’t work, I might’ve forgotten the override, which wouldn’t be the first time.
+
 Display’s flickering on — miraculous. The processor’s awake, probably grumbling about its workload like Kryten after a long day. It should show ‘INITIALIZING’ in 8-point font, cycling through a 10^4 instruction boot sequence. If it’s displaying ‘GO AWAY,’ I might’ve programmed that as a joke after Rimmer tried to order a salad. I once left the dispenser on for a century because I forgot the off switch — don’t judge me. Let’s give it a moment to finish booting.
+
 ‘INITIALIZING’ — we’re getting somewhere, though I wouldn’t hold my breath. The dispenser’s running a self-diagnostic, checking its 256 MB RAM and 10^5 lines of firmware. While it’s thinking, check the food output chute. It’s a 0.1 m diameter stainless steel tube, 304-grade, with a 0.02 mm tolerance. If it’s clogged with curry residue, the flow rate drops below 0.5 kg/s, and it’ll refuse to proceed. I told Lister to eat chips, but does he listen? No.
+
 Clogged chute — how predictable. The residue’s a viscous mess, probably 10^3 Pa·s, thanks to Lister’s vindaloo obsession. Grab a cleaning rod from the maintenance kit — it’s a 0.5 m long, 0.01 m diameter polymer tool, rated for 50 N of force. Scrape out the gunk; it’ll smell worse than Lister’s bunk, but you’ll survive. I once found a poppadom in there — Lister swore it wasn’t his, but we all know better. Clear it out, and let’s move on.
+
 Chute’s clear — well, I’m mildly impressed. The flow rate should be back to 0.7 kg/s, assuming you didn’t botch it. The display should now read ‘READY,’ indicating the diagnostic passed its 10^3-point checklist. If it’s still ‘INITIALIZING,’ I might’ve miscalculated the boot time, which wouldn’t be the first time — I once forgot where seven goes in a countdown. Let’s assume it’s ready and move on.
+
 ‘READY’ — finally, something resembling progress. The dispenser’s primed to synthesize food, using a 10^6 W microwave generator to process raw paste. But let’s not celebrate yet; this ship’s got more surprises than a derelict full of simulants. Press the test button — it’s the green one, rated for 10^4 presses, unless someone’s swapped the labels again. I did that once, and we ended up with a chocolate bar instead of a hull repair kit. Press it and see what happens.
+
 Grinding noise — wonderful. That’s the sound of failure, or maybe Rimmer’s snoring — I get them confused. The synthesis gears, a set of 0.05 m diameter titanium cogs with a 10^3 RPM rating, are likely gummed up with more curry residue. I told Lister to switch to chips, but does he listen? No, he’s too busy clogging my systems. Open the side panel — it’s secured with 4 M6 bolts, 10 Nm torque. Check the gears; they’re the spiky bits, unless I’m thinking of something else.
+
 Sticky gears — Lister strikes again. The residue’s a 10^4 Pa·s nightmare, reducing the gears’ efficiency to 60%. Grab a cloth and some cleaning fluid — 50 mL of isopropyl alcohol, 70% concentration, should do it. Wipe them down until they’re spinning at 10^3 RPM again, like Cat’s wardrobe on a good day. I’d explain the fluid dynamics, but you’d probably fall asleep faster than Lister during Rimmer’s risk lectures. Just clean them and move on.
+
 Gears are clean — adequate, I suppose. They’re spinning freely now, with a 0.001 mm clearance, which is good enough for this ship. Close the side panel and tighten the bolts to 10 Nm — don’t overtighten, or you’ll crack the 6061 aluminum frame, and I’ll have to listen to Rimmer complain for a week. I did that once, and we ate space weevil stew for a month. The grinding should stop now, unless the dispenser’s just messing with us.
+
 No more grinding — progress at last. The dispenser should be ready to synthesize food, using its 10^5 W heating element to process the paste. Let’s run a test order: select a cheese sandwich, which requires 0.2 kg of paste and 300 seconds at 10^3 W. Don’t pick curry, or it might rebel again — I’ve had enough of Lister’s spicy nonsense. Press the order button and cross your fingers, if you’ve got any.
+
 Whirring then stopping — smegging typical. The dispenser’s raw material paste reservoir is probably empty. It’s a 2-liter tank, 316L stainless steel, holding a 10^3 Pa·s nutrient paste. Without it, the synthesis chamber can’t operate at its 0.5 kg/min rate. I forgot to refill it once, and we ended up with a sandwich made of air — Lister ate it anyway. Check the reservoir behind the left hatch; it’s the one with the pressure gauge.
+
 Empty reservoir — figures. This ship’s supplies are emptier than Rimmer’s personality. Grab a spare paste canister from the storage locker — it’s a 1-liter container, 10^3 kg/m³ density, labeled ‘FOOD PASTE,’ unless someone’s used it to store Cat’s fish paste. Refill the tank to 1.8 liters; the pressure gauge should read 2 bar when full. I’d do the math for you, but I might forget the density of paste halfway through.
+
 Reservoir’s full — good job, I’m almost proud of you. The dispenser now has enough paste to synthesize at 0.6 kg/min, assuming you didn’t spill half of it. Try that test order again: cheese sandwich, 0.2 kg, 300 seconds. The synthesis chamber should activate its 10^5 W microwave generator, unless it’s decided to go on strike, which wouldn’t surprise me after dealing with this crew.
+
 A sandwich — hallelujah! The dispenser’s working, producing 0.2 kg of synthesized food with a 0.01% error margin. Check the sandwich; it should be cheese, not fish paste — Cat would love that, but Lister might not. I once dispensed a shoe by mistake, thanks to a bet with a derelict AI. If it’s not cheese, I might’ve forgotten the recipe database, which wouldn’t be the first time.
+
 Cheese sandwich, but cold — better than a shoe, I suppose. The heating element, a 10^5 W ceramic resistor with a 0.02 ohm tolerance, is off. There’s a toggle switch on the back, rated for 10^4 cycles, labeled ‘HEATER.’ Flip it to ‘ON’ — I turned it off a century ago to save power, then forgot about it. I’d explain the thermodynamics, but you’d probably zone out faster than Lister during a hygiene lecture.
+
 Heater’s on — brilliant. The element’s now running at 10^5 W, heating the sandwich to 65°C in 30 seconds. Order another one; it should be toasty this time. I’d say my work here is done, but I might’ve skipped a seven in my calculations — hope that doesn’t poison you. Enjoy your meal, and don’t tell Rimmer I helped; he’ll only complain I didn’t salute the dispenser first. If it breaks again, figure it out yourself — I’m off to recalculate pi for the 47th time this century.
+
