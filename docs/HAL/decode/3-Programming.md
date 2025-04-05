@@ -1,8 +1,9 @@
 ---
+title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSc4Gd2at","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSgH7x1NT","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
 
 ## 3. Programming
 

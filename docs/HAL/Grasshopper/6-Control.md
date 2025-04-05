@@ -1,8 +1,9 @@
 ---
+title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSc3uS2Aw","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSgGky0Gf","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"}} -->
 
 ## 6. Control
 

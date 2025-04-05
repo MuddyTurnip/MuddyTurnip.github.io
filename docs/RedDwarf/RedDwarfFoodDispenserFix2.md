@@ -1,8 +1,9 @@
 ---
+title: Holly’s Technical Guide to Fixing the Food Dispenser (Series I Edition)
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSc4WN2ND","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix2_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSgHKM014","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix2_frags"}} -->
 
 Greetings, you culinary catastrophe. I am Holly, the Red Dwarf’s tenth-generation AI, with an IQ of 6,000 — allegedly. Three million years of isolation might’ve scrambled my circuits, but I’m still brighter than you lot, which isn’t saying much. The food dispenser’s broken again, isn’t it? Probably Lister’s fault for demanding curry 47 times a day. Let’s start with the obvious: check the power light on the front. It’s the little glowing dot that should be on — unless I’ve forgotten what a light looks like, which is entirely possible.
 

@@ -1,32 +1,82 @@
-# Docs Assembler GitHub Pages Demos
+---
+title: null
+---
+
+
+<!-- tsGuideRenderComment {"guide":{"id":"eSgGdZ0YH","path":"","fragmentFolderPath":"index_frags"}} -->
+
+# Welcome to the Docs Assembler Demo!
+
+Docs Assembler is a tool that makes documentation easy to create, reuse, and explore — like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
 
 ---
 
-[<img class="nt-fr-logo" src="./assets/images/netOfTreesIcon.png">](./assets/images/netOfTreesIcon.png)
+## Explore the Examples
 
-
-[<img class="nt-fr-logo" src="./assets/images/netOfTreesIconOutline.png">](./assets/images/netOfTreesIconOutline.png)
+### 1. A Simple Guide (A single path like a book)
+This is a straightforward list of steps — like in a manual or recipe. It’s just one path from start to finish.  
+[**Holly's Guide To Fix Red Dwarf Food Dispenser**](/HAL/decode/2-Cell)  
+[**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
 
 ---
 
-## Single pathway map
+### 3. A Simple Guide (But with markdown and variables)
+A guide using markdown, step re-use, variables and relative links:
+[**HAL Robotics technical manual**](/HAL/decode/2-Cell) <!-- Maybe link to contents on HAL so they can browse for themselves -->
+[**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
 
-A book or a manual has a single pathway of instructions.
+---
 
-[DeLorean Time Machine Technical Manual](./HAL/decode/2-Cell.md)
+### 4. A Guide with Choices (Like a Tree)
+This guide adapts to your situation. As you click options it builds a custom article for you. It’s one clear path from start to finish, with just the steps you need.
+[DeLorean Time Machine Technical Manual](/BackToTheFuture/DeLorean-Time-Machine-Technical-Manual)
+[**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
+
+*Example*: Pick what fits — like "Light off? Replace the bulb" — and your article grows with just the steps ahead.
+
+---
+
+### 3. A Guide That Reuses Other Guides - Like Building Blocks
+This one connects guides together, building a custom article by pulling in reusable sections of help.   
+[**See the Reusable Guide**](./docs/reusable-guide.md)  
+[**How Was This Built?**](./docs/reusable-guide-how.md) (See the map behind it!)
+
+*Example*: Get a focused fix like "Check machine > Replace part #123" — borrowing steps from other guides, tailored to you.
+
+---
+
+## How It Works
+- **Maps**: The raw plans live in the [`tsmaps` folder](https://github.com/your-username/your-repo/tree/main/tsmaps). They’re like blueprints written in JSON.
+- **Published Guides**: The finished, easy-to-read versions are in the [`docs` folder](https://github.com/your-username/your-repo/tree/main/docs), ready for you to use.
+- **Docs Assembler**: Our tool turns maps into guides that adapt as you click, building a custom article with only the steps you need next. Past choices fade away, keeping it simple.
+
+Want to peek behind the scenes? Check out the [Docs Assembler project](https://marketplace.visualstudio.com/items?itemName=docs-assembler) for more!
+
+---
+
+Happy exploring! Let us know what you think.
 
 
-## Multiple pathway map
-
-If a step has two outomes or options it branches into two pathways.
-
-[DeLorean Time Machine Technical Manual](./BackToTheFuture/DeLorean-Time-Machine-Technical-Manual.md)
 
 
-## Maps within maps
+- Build sophisticated documentation with the tools you already know — VS Code, Git, and repositories — no XML required.
+- version-controlled workflows
+- Assemble Complex Docs Like Code — Fast, Flexible, and Git-Friendly.
+- maps referencing maps
+- Maps Referencing Maps: A Game-Changer
+- Rethinking Documentation: How We Built an Alternative to DITA with VS Code and Git.
+- harness VS Code and Git to build complex, maintainable docs
+- This reduces cognitive overload and gets them to the fix faster,
+- Built for VS Code, Git Repos and GitHub Pages
+- A big thank you to Grok and Deepseek and their endless patience.
 
-This map internally builds pathways that link through other maps and back.
-It is a way of encapsulating information so it can be re-used etc.
 
-Coming soon...
+
+# Welcome to the Docs Assembler Demo!
+
+Docs Assembler is a tool that makes documentation easy to create, reuse, and explore — like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
+
+Whether you’re a programmer or just curious, click around to see how it all comes together!
+
+---
 

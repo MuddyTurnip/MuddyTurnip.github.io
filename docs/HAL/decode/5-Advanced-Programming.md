@@ -1,8 +1,9 @@
 ---
+title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSc41s1KE","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSgGtS1CQ","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
 
 ## 5. Advanced Programming
 

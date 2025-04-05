@@ -1,8 +1,9 @@
 ---
+title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSc4Av23E","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSgH2W04y","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"}} -->
 
 ## 1. Getting Started
 
