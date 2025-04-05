@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSObq10nr","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSageZ0Wo","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"}} -->
 
 ## Manufacturer Specific Details
 

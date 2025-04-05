@@ -3,14 +3,14 @@
 
 # Welcome to the Docs Assembler Demo!
 
-Docs Assembler is a tool that makes documentation easy to create, reuse, and explore—like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
+Docs Assembler is a tool that makes documentation easy to create, reuse, and explore — like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
 
 ---
 
 ## Explore the Examples
 
 ### 1. A Simple Guide (A single path like a book)
-This is a straightforward list of steps—like in a manual or recipe. It’s just one path from start to finish.  
+This is a straightforward list of steps — like in a manual or recipe. It’s just one path from start to finish.  
 [**Holly's Guide To Fix Red Dwarf Food Dispenser**]{{ll.decode2Cell_map_link}}  
 [**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
 
@@ -28,7 +28,7 @@ This guide adapts to your situation. As you click options it builds a custom art
 [DeLorean Time Machine Technical Manual]{{ll.deLoreanTimeMachineTechnicalManual_map_link}}
 [**How Was This Built?**](./docs/branching-guide-how.md) (See the map behind it!)
 
-*Example*: Pick what fits—like "Light off? Replace the bulb"—and your article grows with just the steps ahead.
+*Example*: Pick what fits — like "Light off? Replace the bulb" — and your article grows with just the steps ahead.
 
 ---
 
@@ -37,7 +37,7 @@ This one connects guides together, building a custom article by pulling in reusa
 [**See the Reusable Guide**](./docs/reusable-guide.md)  
 [**How Was This Built?**](./docs/reusable-guide-how.md) (See the map behind it!)
 
-*Example*: Get a focused fix like "Check machine > Replace part #123"—borrowing steps from other guides, tailored to you.
+*Example*: Get a focused fix like "Check machine > Replace part #123" — borrowing steps from other guides, tailored to you.
 
 ---
 
@@ -55,7 +55,7 @@ Happy exploring! Let us know what you think.
 
 
 
-- Build sophisticated documentation with the tools you already know—VS Code, Git, and repositories—no XML required.
+- Build sophisticated documentation with the tools you already know — VS Code, Git, and repositories — no XML required.
 - version-controlled workflows
 - Assemble Complex Docs Like Code — Fast, Flexible, and Git-Friendly.
 - maps referencing maps
@@ -70,7 +70,7 @@ Happy exploring! Let us know what you think.
 
 # Welcome to the Docs Assembler Demo!
 
-Docs Assembler is a tool that makes documentation easy to create, reuse, and explore—like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
+Docs Assembler is a tool that makes documentation easy to create, reuse, and explore — like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
 
 Whether you’re a programmer or just curious, click around to see how it all comes together!
 

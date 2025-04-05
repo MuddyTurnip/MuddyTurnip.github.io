@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSObdh0Nz","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSagSI16j","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
 
 ## 5. Advanced Programming
 

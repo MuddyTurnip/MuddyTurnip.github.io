@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSObxf1CG","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSagk90Z3","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
 
 ## 3. Programming
 

@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSOb9w1d9","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSag5V2EI","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"}} -->
 
 <img class="logo" src="../assets/images/decode/logo.png" height="35">
 

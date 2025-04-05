@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSOby50Fn","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSagl41H4","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
 
 ## 7. Glossary
 

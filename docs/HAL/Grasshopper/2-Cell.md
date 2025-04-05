@@ -2,7 +2,7 @@
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eSObbs0Xs","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eSagQn0qK","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"}} -->
 
 ## 2. Cell
 
