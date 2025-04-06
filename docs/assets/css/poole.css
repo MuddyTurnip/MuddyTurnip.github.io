@@ -35,38 +35,6 @@
  * Update the foundational and global aspects of the page.
  */
 
- :root {
-  --gray-000: #f8f9fa;
-  --gray-100: #f1f3f5;
-  --gray-200: #e9ecef;
-  --gray-300: #dee2e6;
-  --gray-400: #ced4da;
-  --gray-500: #adb5bd;
-  --gray-600: #868e96;
-  --gray-700: #495057;
-  --gray-800: #343a40;
-  --gray-900: #212529;
-  --dark-poole-001: hsl(200, 3%, 12%);
-  --dark-poole-002: hsl(0, 0%, 85%);
-  --dark-poole-link-color: rgba(255, 255, 255, 0.75);
-  --dark-poole-link-hover: #fff;
-
-  --body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-
-[data-theme="dark-poole"] {
-  --body-color: var(--dark-poole-002);
-  --body-bg: var(--dark-poole-001);
-  --heading-color: var(--dark-poole-002);
-  --link-color: var(--dark-poole-link-color);
-  --link-hover-color: var(--dark-poole-link-hover);
-  --border-color: rgba(255, 255, 255, 0.15);
-  --code-bg: var(--gray-900);
-}
-
 
 * {
   -webkit-box-sizing: border-box;
@@ -92,15 +60,16 @@ html {
 }
 
 body {
-  color: #515151;
-  background-color: hsl(0, 0%, 85%);
+  color: rgb(217, 217, 217);
+  background-color: rgb(30, 31, 32);
+
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #3c7d43;
   text-decoration: none;
 }
 a strong {
@@ -117,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: rgb(230, 230, 230);
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -143,7 +112,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: rgb(217, 217, 217);
 }
 
 
@@ -189,7 +158,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #bf616a;
-  background-color: #f9f9f9;
+  background-color: rgb(58, 59, 61);
   border-radius: 3px;
 }
 pre {
@@ -203,7 +172,7 @@ pre {
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
-  background-color: #f9f9f9;
+  background-color: rgb(217, 217, 217);
 }
 pre code {
   padding: 0;
@@ -281,7 +250,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: rgb(34, 36, 39);
 }
 
 
