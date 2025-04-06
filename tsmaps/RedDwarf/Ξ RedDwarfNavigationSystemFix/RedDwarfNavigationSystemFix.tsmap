@@ -8,103 +8,110 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/RedDwarf/Ξ RedDwarfNavigationSystemFix/RedDwarfNavigationSystemFix.tsmap",
     "iText": "Link to 'RedDwarfNavigationSystemFix'",
     "___rΩΩt___": {
-        "key": "eRJWaK01FZ",
+        "key": "eb0deK00Ep",
         "nodes": [
             {
-                "key": "eRK5fj01GS",
+                "key": "eRJWaK01FZ",
                 "order": 1,
-                "option": "Next",
+                "option": "Root",
                 "nodes": [
                     {
-                        "key": "eRKCR601kf",
+                        "key": "eRK5fj01GS",
                         "order": 1,
                         "option": "Next",
                         "nodes": [
                             {
-                                "key": "eRKFRj02KR",
+                                "key": "eRKCR601kf",
                                 "order": 1,
                                 "option": "Next",
                                 "nodes": [
                                     {
-                                        "key": "eRKKR102Ot",
+                                        "key": "eRKFRj02KR",
                                         "order": 1,
                                         "option": "Next",
                                         "nodes": [
                                             {
-                                                "key": "eRKMJP01FU",
+                                                "key": "eRKKR102Ot",
                                                 "order": 1,
                                                 "option": "Next",
                                                 "nodes": [
                                                     {
-                                                        "key": "eRKNrW02Ua",
+                                                        "key": "eRKMJP01FU",
                                                         "order": 1,
                                                         "option": "Next",
                                                         "nodes": [
                                                             {
-                                                                "key": "eRKPUH02HI",
+                                                                "key": "eRKNrW02Ua",
                                                                 "order": 1,
                                                                 "option": "Next",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "eRKR6P0256",
+                                                                        "key": "eRKPUH02HI",
                                                                         "order": 1,
                                                                         "option": "Next",
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "eRKT3800Ju",
+                                                                                "key": "eRKR6P0256",
                                                                                 "order": 1,
                                                                                 "option": "Next",
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "eRKVig01yk",
+                                                                                        "key": "eRKT3800Ju",
                                                                                         "order": 1,
                                                                                         "option": "Next",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "eRKXTB01Ni",
+                                                                                                "key": "eRKVig01yk",
                                                                                                 "order": 1,
                                                                                                 "option": "Next",
                                                                                                 "nodes": [
                                                                                                     {
-                                                                                                        "key": "eRKYmR02YX",
+                                                                                                        "key": "eRKXTB01Ni",
                                                                                                         "order": 1,
                                                                                                         "option": "Next",
                                                                                                         "nodes": [
                                                                                                             {
-                                                                                                                "key": "eRKaG9001j",
+                                                                                                                "key": "eRKYmR02YX",
                                                                                                                 "order": 1,
                                                                                                                 "option": "Next",
                                                                                                                 "nodes": [
                                                                                                                     {
-                                                                                                                        "key": "eRKbbc01jc",
+                                                                                                                        "key": "eRKaG9001j",
                                                                                                                         "order": 1,
                                                                                                                         "option": "Next",
                                                                                                                         "nodes": [
                                                                                                                             {
-                                                                                                                                "key": "eRKd5102Af",
+                                                                                                                                "key": "eRKbbc01jc",
                                                                                                                                 "order": 1,
                                                                                                                                 "option": "Next",
                                                                                                                                 "nodes": [
                                                                                                                                     {
-                                                                                                                                        "key": "eRKeXm00l4",
+                                                                                                                                        "key": "eRKd5102Af",
                                                                                                                                         "order": 1,
                                                                                                                                         "option": "Next",
                                                                                                                                         "nodes": [
                                                                                                                                             {
-                                                                                                                                                "key": "eRKgAQ00kQ",
+                                                                                                                                                "key": "eRKeXm00l4",
                                                                                                                                                 "order": 1,
                                                                                                                                                 "option": "Next",
                                                                                                                                                 "nodes": [
                                                                                                                                                     {
-                                                                                                                                                        "key": "eRKhRB02Bu",
+                                                                                                                                                        "key": "eRKgAQ00kQ",
                                                                                                                                                         "order": 1,
                                                                                                                                                         "option": "Next",
                                                                                                                                                         "nodes": [
                                                                                                                                                             {
-                                                                                                                                                                "key": "eRKjUP02ae",
+                                                                                                                                                                "key": "eRKhRB02Bu",
                                                                                                                                                                 "order": 1,
                                                                                                                                                                 "option": "Next",
-                                                                                                                                                                "isLeaf": true
+                                                                                                                                                                "nodes": [
+                                                                                                                                                                    {
+                                                                                                                                                                        "key": "eRKjUP02ae",
+                                                                                                                                                                        "order": 1,
+                                                                                                                                                                        "option": "Next",
+                                                                                                                                                                        "isLeaf": true
+                                                                                                                                                                    }
+                                                                                                                                                                ]
                                                                                                                                                             }
                                                                                                                                                         ]
                                                                                                                                                     }
@@ -224,11 +231,15 @@
         {
             "key": "δ-eRKjUP02ae",
             "relativePath": "./δ steps/δ-eRKjUP02ae.tsstp"
+        },
+        {
+            "key": "δ-eb0deK00Ep",
+            "relativePath": "./δ steps/δ-eb0deK00Ep.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "eUidLV02Se",
-        "editorID": "car_fcf5aa7e60254177b5a13f9ab4ceb74f",
-        "ticks": 1743844841041
+        "id": "eb0gQn01OF",
+        "editorID": "car_55dfbca946b946138fc26d0b2ed2d988",
+        "ticks": 1743937800821
     }
 }

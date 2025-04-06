@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eVmHnx29g","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"eb1Rs81mc","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"}} -->
 
 ## 5. Advanced Programming
 
