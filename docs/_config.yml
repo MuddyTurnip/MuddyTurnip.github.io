@@ -4,7 +4,7 @@ permalink:        pretty
 # Setup
 title: Docs Assembler demo guides
 url:              https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler
-baseurl:          /
+# baseurl:          ""
 markdown_ext: markdown,tsfrg,md
 
 
