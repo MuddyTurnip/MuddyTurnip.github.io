@@ -1,73 +1,24 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark-poole">
-{% include head.html %}
+<html lang="en-us">
 
-<body>
-  <div class="container content">
-    <header class="masthead">
-      <h3 class="masthead-title">
-        <a href="{{ site.baseurl }}/" title="Home">Home</a>
+  {% include head.html %}
 
-        <nav class="nav">
-          {% for nav in site.nav %}
-          <small><a href="{{ nav.url }}">{{ nav.title }}</a></small>
-          {% endfor %}
-        </nav>
-      </h3>
-    </header>
+  <body>
 
-    <main>
+    {% include sidebar.html %}
 
-      <div id="treeSolveGuide">
-        {{ content }}
-      </div>
-      <div id="treeSolveFragments"></div>
+    <div class="content container">
+      <main>
 
-    </main>
+        <div id="treeSolveGuide">
+          {{ content }}
+        </div>
+        <div id="treeSolveFragments"></div>
+  
+      </main>
+  
+    </div>
 
-    <aside class="related">
-      <h3>Related posts</h3>
-      <ul class="related-posts">
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
-          </a>
-        </li>
-      </ul>
-    </aside>
-
-    <footer class="footer">
-      <small>
-      </small>
-    </footer>
-  </div>
-
-</body>
-<noscript>You need to enable JavaScript to run this app.</noscript>
-
+  </body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
 </html>
