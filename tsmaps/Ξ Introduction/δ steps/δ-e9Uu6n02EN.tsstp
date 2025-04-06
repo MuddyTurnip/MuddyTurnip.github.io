@@ -1,4 +1,5 @@
-# Welcome to the Docs Assembler Demo!
+# Docs Assembler Demo
 
-Docs Assembler is a tool that makes documentation easy to create, reuse, and explore — like building with blocks! This demo shows how it works with examples you can browse. As you click through options, it builds a custom article just for you, showing only the next steps to diagnose and solve your problem. We store the "building plans" (called maps) in the `tsmaps` folder and turn them into ready-to-read guides in the `docs` folder.
+Docs Assembler turns documentation into modular, reusable units called "maps." This demo shows how it works with examples you can explore. Click through options to build a custom article with only the steps you need. Maps are stored in the tsmaps folder; finished guides are in the docs folder, optimised up for GitHub Pages.
+
 

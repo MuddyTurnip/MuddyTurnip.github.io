@@ -1,12 +1,6 @@
-### 4. A Guide That Reuses Other Guides - Like Building Blocks
+## Guides within guides
 
-To the user this guide is the same as the one in 3. But for the author this is where the power of maps lies.  
-And author can build a map on how to use a digital multi-meter and then re-use in multiple steps in a map for fixing a washing machine, or a car, or a lift.  
-They build the steps for multi-meter map once. When they update that map it updates everywhere. 
+This is where maps shine. Authors can break knowledge into modular blocks and assemble them like Lego. Maps can have exits so can be chained and nested. For instance, a map on using a digital multi-meter, could plug into maps for diagnosing and fixing electrical faults in other products, like washing machines, or cars. Any updates to the digital multi-meter map cascade to the referencing maps automatically. Inspired by software classes, maps bring encapsulation and reuse to documentation trees.
 
-
-Combine map re-use with shareable steps, variables, self-adjusting links, intellisense, validation, on top of markdown, git, vscode and GitHub Pages and it becomes a labour saving tool. 
-
-
+### Example
 Coming soon...
-

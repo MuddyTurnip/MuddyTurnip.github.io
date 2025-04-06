@@ -1,7 +1,4 @@
-## How It Works
+## Docs Assembler
 
-- **Maps**: The raw plans live in the [`tsmaps` folder](https://github.com/your-username/your-repo/tree/main/tsmaps). They’re like blueprints written in JSON.
-- **Published Guides**: The finished, easy-to-read versions are in the [`docs` folder](https://github.com/your-username/your-repo/tree/main/docs), ready for you to use.
-- **Docs Assembler**: Our tool turns maps into guides that adapt as you click, building a custom article with only the steps you need next. Past choices fade away, keeping it simple.
+Docs Assembler is a VS Code extension that reimagines documentation as modular, reusable code-like units called "maps." Maps are JSON-based trees with a root (entry point), branches (decision paths), solutions (endpoints), and exits (hooks for extension), functioning like software classes with encapsulation and reuse. Authors create maps (e.g., "Diagnose Hydraulic Pump Failure") as self-contained help blocks, editable in a graphical or JSON editor, with steps linking to Markdown assets and variables for re-use. Maps can reference other maps, enabling single-point updates across help systems. Users see simplified, situation-specific paths (e.g., "Run diagnostics > Check seal > Replace seal") without the tree’s complexity. A publish routine validates and converts maps into formats like Jekyll Markdown for GitHub Pages, while a user app builds custom articles from selected options.
 
-Want to peek behind the scenes? Check out the [Docs Assembler project](https://marketplace.visualstudio.com/items?itemName=docs-assembler) for more!

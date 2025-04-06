@@ -34,14 +34,7 @@
                                                 "key": "eUjNIT029P",
                                                 "order": 1,
                                                 "option": "Next",
-                                                "nodes": [
-                                                    {
-                                                        "key": "eUjT7O01FL",
-                                                        "order": 1,
-                                                        "option": "Next",
-                                                        "isLeaf": true
-                                                    }
-                                                ]
+                                                "isLeaf": true
                                             }
                                         ]
                                     }
@@ -77,15 +70,11 @@
         {
             "key": "δ-eUjNIT029P",
             "relativePath": "./δ steps/δ-eUjNIT029P.tsstp"
-        },
-        {
-            "key": "δ-eUjT7O01FL",
-            "relativePath": "./δ steps/δ-eUjT7O01FL.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "eVL8vs002A",
-        "editorID": "car_267388e53a6d43879603b789c02fa524",
-        "ticks": 1743854018924
+        "id": "ecu4hU01rv",
+        "editorID": "car_9b449be10d8b4182890de2b7a508e94a",
+        "ticks": 1743965778488
     }
 }
