@@ -70,6 +70,14 @@ body {
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+
+  height: 100vh;
+  overflow: hidden;
+}
+
+.box {
+  display: flex;
+  height: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -326,8 +334,11 @@ tbody tr:nth-child(odd) th {
   max-width: 66rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
+
+  flex: 1;
+  overflow-y: auto;
 }
 
 

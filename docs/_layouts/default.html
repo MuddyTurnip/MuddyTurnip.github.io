@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
+
+  <div class="box">
 
     {% include sidebar.html %}
 
@@ -11,14 +13,17 @@
       <main>
 
         <div id="treeSolveGuide">
+
           {{ content }}
+          
         </div>
         <div id="treeSolveFragments"></div>
-  
-      </main>
-  
-    </div>
 
-  </body>
-  <noscript>You need to enable JavaScript to run this app.</noscript>
+      </main>
+
+    </div>
+  </div>
+</body>
+<noscript>You need to enable JavaScript to run this app.</noscript>
+
 </html>
