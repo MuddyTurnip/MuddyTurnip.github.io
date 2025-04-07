@@ -10,12 +10,17 @@
     </div>
 
     <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">HAL</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Red Dwarf</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Back to the Future</a>
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      <a class="sidebar-nav-item" href="{{ site.docsAssembler.netoftrees }}">netoftres</a>
+      <a class="sidebar-nav-item" href="{{ site.docsAssembler.email }}">email us</a>
+      <a class="sidebar-nav-item" href="{{ site.docsAssembler.twitter }}">x.com</a>
+      <a class="sidebar-nav-item" href="{{ site.HAL.website }}">HAL Robotics website</a>
+      <a class="sidebar-nav-item" href="{{ site.HAL.docs }}">HAL Robotics documentation</a>
+      <a class="sidebar-nav-item" href="{{ site.HAL.docs-repo }}">HAL Robotics documentation repo</a>
+      <a class="sidebar-nav-item" href="{{ site.urls.vscode.extension }}">vscode extension</a>
     </nav>
   </div>
 </div>
