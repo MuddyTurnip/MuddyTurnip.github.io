@@ -69,6 +69,7 @@
     width: 18rem; */
     text-align: left;
 
+    flex-direction: column;
     position: sticky;
     height: 100vh;
     overflow-y: auto;

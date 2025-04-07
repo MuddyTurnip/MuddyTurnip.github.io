@@ -338,6 +338,7 @@ tbody tr:nth-child(odd) th {
   margin-right: auto; */
 
   flex: 1;
+  flex-direction: column;
   overflow-y: auto;
 }
 
