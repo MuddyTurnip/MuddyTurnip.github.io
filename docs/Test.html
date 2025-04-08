@@ -90,6 +90,10 @@
             transition: all 0.3s ease;
         }
 
+        ul {
+            padding: 0 0 0 40px;
+        }
+
         /* Mobile Styles */
         @media (max-width: 800px) {
             .hamburger {
@@ -185,6 +189,7 @@
 
             -webkit-text-size-adjust: 100%;
             -ms-text-size-adjust: 100%;
+            padding-bottom: 400px;
         }
 
         .box {
@@ -230,12 +235,12 @@
 
         h2 {
             /* margin-top: 1rem; */
-            font-size: 1.5rem;
+            font-size: 2rem;
         }
 
         h3 {
-            /* margin-top: 1.5rem; */
-            font-size: 1.25rem;
+            margin-top: 1.5rem;
+            font-size: 1.5rem;
         }
 
         h4,
@@ -729,8 +734,8 @@
                         </a>
                     </h1>
                     <p>Build documentation like Lego</p>
-                    <p>Reusable text blocks - modelled on code classes - simplify
-                        editing for complex / growing docs.</p>
+                    <p>Reusable text blocks — modelled on code classes — simplify
+                        editing for complex / growing systems.</p>
                 </div>
 
                 <h2>Demos</h2>
@@ -750,7 +755,7 @@
                             href="{{ site.baseurl }}/BackToTheFuture/DeLorean-Time-Machine-Technical-Manual">DeLorean
                             Time Machine Technical Manual</a>
                     </div>
-                    <h4>HAL Robotics Documentation</h4>
+                    <h4>HAL Robotics - old Docs</h4>
                     <p class="warning">This is not the current version of HAL Robotics documentation - see
                         below for official links.</p>
                     <div class="sidebar-nav-nested">
@@ -829,30 +834,46 @@
             <main class="main-content">
                 <main>
                     <div id="treeSolveGuide">
-                        <h1>Introducing Guides</h1>
-                        <p> Docs Assembler is a VS Code extension that reimagines documentation as modular, reusable
-                            units called "maps." Maps are JSON-based trees comprised of steps (nodes). The step text is
-                            kept in a separate markdown file so you can edit it in your favourite editor. Markdown files
-                            can be shared, and can reference variables like in code - facilitated by intellisense.</p>
-                        <p> Maps can reference other maps, they can be chained, nested, etc. It’s an application of
-                            object-oriented design (OOD) principles like encapsulation, modularity, and reuse to
-                            documentation - enabling single-point updates across help systems. A publish routine
-                            validates and converts maps into formats like Jekyll Markdown for GitHub Pages (guides).</p>
-                        <p> The documentation author interacts with the full tree to define the structure and possible
-                            pathways, while the end user (like a mechanic fixing a hydraulic pump on a forklift) only
-                            sees a tailored, linear path specific to their situation - presented as a custom article
-                            that
-                            can be shared by url. This reduces cognitive overload and gets them to the fix faster,
-                            whether they're using diagnostic software or manual methods. The tree's depth and
-                            flexibility empower the author to embed conditional logic or AI-readable steps, minimizing
-                            errors. Like classes in code which inspired them, maps are a powerful concept, especially
-                            for technical workflows where precision and speed matter.</p>
-                        <p> This demo shows how guides work, with small examples you can explore. Click through
-                            options to build a custom article.</p>
-                        <h2 id="a-simple-guide">A Simple Guide</h2>
-                        <p>The simplest guide, with fixed steps presented as an article - like a manual, book, or
+                        <h1>Modular Documentation</h1>
+                        <p> Docs Assembler is a VS Code extension that treats documentation as modular, reusable
+                            "maps" — JSON-based trees where each step (node) pulls content from standalone markdown files.
+                        </p>
+                        <h3>This structure allows you to:</h3>
+                        <ul>
+                            <li>Edit documentation in your preferred markdown editor.</li>
+                            <li>Reuse markdown across multiple steps or maps. </li>
+                            <li>Use variables to inject dynamic content —  supported by IntelliSense.</li>
+                        </ul>
+                        <p> Maps bring object-oriented principles — encapsulation, modularity, and reuse — to documentation.
+                        </p>
+                        <h3>How maps work:</h3>
+                        <ul>
+                            <li>Root step: Entry point.</li>
+                            <li>Branches: Decision paths (if/then, troubleshooting flows).</li>
+                            <li>Solutions: Resolution endpoints.</li>
+                            <li>Open paths requiring resolution in parent maps.</li>
+                        </ul>
+                        <p>The publish routine validates maps and converts them into formats like Jekyll Markdown for
+                            GitHub Pages —  guides.</p>
+                        <h3>Why it matters:</h3>
+                        <p> For Authors:</p>
+                        <ul>
+                            <li>Maps provide a structured way to define pathways.</li>
+                            <li>Single-source updates propagate everywhere.</li>
+                            <li>Complex workflows stay editable.</li>
+                        </ul>
+                        <p> For Users:</p>
+                        <p>Imagine a mechanic diagnosing a forklift's hydraulic pump: they don't need the full
+                            manual — just a precise, tailored guide.
+                            Generated from the map's logic, this linear path
+                            of steps becomes a custom article, shareable via URL.
+                            It cuts cognitive load and speeds up repairs.</p>
+
+                        <p> Explorer demos to see maps and guides in action.</p>
+                        <h2 id="a-simple-guide">Simple Guide</h2>
+                        <p>The simplest guide, with fixed steps presented as an article —  like a manual, book, or
                             essay.</p>
-                        <p>Example: <a href="/RedDwarf/RedDwarfFoodDispenserFix">Holly’s Guide To Fix Red Dwarf Food
+                        <p>Example: <a href="/RedDwarf/RedDwarfFoodDispenserFix">Holly's Guide To Fix Red Dwarf Food
                                 Dispenser</a></p>
                         <h2 id="simple-guide--tools">Simple Guide + Tools</h2>
                         <p>Uses markdown, images, reusable steps, variables, and auto-adjusting links.</p>
