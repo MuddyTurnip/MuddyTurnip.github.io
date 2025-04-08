@@ -1,5 +1,5 @@
-# Docs Assembler Demo
+# Introducing Docs Assembler
 
-Docs Assembler turns documentation into modular, reusable units called "maps." This demo shows how it works with examples you can explore. Click through options to build a custom article with only the steps you need. Maps are stored in the tsmaps folder; finished guides are in the docs folder, optimised up for GitHub Pages.
+Docs Assembler turns documentation into modular, reusable units called "maps." This demo shows how it works with examples you can explore. Click through options to build a custom article assembled from only the steps you need.
 
 

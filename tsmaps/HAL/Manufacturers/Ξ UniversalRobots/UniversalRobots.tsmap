@@ -1,10 +1,10 @@
 {
-    "key": "eGVQHe1nl",
+    "key": "eGVQHe1nl   ",
     "token": "Universalrobots",
     "name": "UniversalRobots",
     "created": "2025-03-13T16:01:38.729Z",
     "list": true,
-    "publishFileName": "Contents",
+    "publishFileName": "UniversalRobots",
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/Ξ UniversalRobots/UniversalRobots.tsmap",
     "iText": "Link to 'UniversalRobots'",
     "___rΩΩt___": {
@@ -147,8 +147,8 @@
         }
     ],
     "___εdit___": {
-        "id": "eDhnDA01Zv",
-        "editorID": "me_bf559b90e1a34b71b41cfae669cce3b0",
-        "ticks": 1743593442924
+        "id": "ejfGyf02Rh",
+        "editorID": "car_447007a2f45542eaba2df5415432d49f",
+        "ticks": 1744065685114
     }
 }

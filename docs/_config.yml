@@ -3,22 +3,9 @@ permalink:        pretty
 
 # Setup
 title: Docs Assembler demo guides
+description: 
 # baseurl:          ""
 markdown_ext: markdown,tsfrg,md
-
-
-urls:
-  home:             https://muddyturnip.github.io/
-  docsAssembler:
-    email:          mailto:team@netoftrees.com
-    netoftrees:     https://www.netoftrees.com/
-    twitter:        https://x.com/netoftrees
-  HAL:         
-    website:        https://hal-robotics.com
-    docs:           https://docs.hal-robotics.com
-    docs-repo:      https://github.com/HALRobotics/HAL.Documentation
-  vscode:
-    extension:    https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler
 
 
 

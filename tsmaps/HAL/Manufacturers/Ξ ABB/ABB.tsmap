@@ -1,10 +1,10 @@
 {
-    "key": "eGVQHy0Js",
+    "key": "eGVQHy0Js   ",
     "token": "Abb",
     "name": "ABB",
     "created": "2025-03-13T16:10:07.027Z",
     "list": true,
-    "publishFileName": "Contents",
+    "publishFileName": "ABB",
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/Ξ ABB/ABB.tsmap",
     "iText": "Link to 'ABB'",
     "___rΩΩt___": {
@@ -125,8 +125,8 @@
         }
     ],
     "___εdit___": {
-        "id": "eDalCO01pN",
-        "editorID": "me_049e023a03bd404bafe5dcd11c740849",
-        "ticks": 1743591766893
+        "id": "ejfAG901MP",
+        "editorID": "car_de68138751454e72810ce0685991c746",
+        "ticks": 1744065659289
     }
 }
