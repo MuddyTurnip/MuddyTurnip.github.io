@@ -6,21 +6,29 @@
 <body>
 
   <div class="box-outer">
+    <div class="box-inner">
+      <!-- Hamburger Menu Icon -->
+      <div class="hamburger" id="hamburger">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
 
-    {% include sidebar.html %}
+      {% include sidebar.html %}
 
-    <div class="content container">
-      <main>
+      <main class="main-content">
+        <main>
 
-        <div id="treeSolveGuide">
+          <div id="treeSolveGuide">
 
-          {{ content }}
-          
-        </div>
-        <div id="treeSolveFragments"></div>
+            {{ content }}
 
-      </main>
+          </div>
+          <div id="treeSolveFragments"></div>
 
+        </main>
+
+      </div>
     </div>
   </div>
 </body>
