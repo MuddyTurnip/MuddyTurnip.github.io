@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"epvs1z1Av","path":"","fragmentFolderPath":"index_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"epwldj0UN","path":"","fragmentFolderPath":"index_frags"}} -->
 
 # Modular Documentation
 
@@ -59,8 +59,7 @@ Adapts to your specific situation, generating a custom article with only the rel
 
 Example: [DeLorean Time Machine Technical Manual](/BackToTheFuture/DeLorean-Time-Machine-Technical-Manual)
 
-##
-# Guides within guides
+## Guides within guides
 
 Example: Coming soon...
 
