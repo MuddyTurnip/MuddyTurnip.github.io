@@ -147,33 +147,6 @@ ul {
     }
 }
 
-html {
-    scrollbar-width: thin;
-    scrollbar-color: rgb(126 126 126) rgb(30, 31, 32);
-}
-
-/* For Chrome, Edge, Safari */
-::-webkit-scrollbar {
-    width: 12px;
-    height: 12px;
-}
-
-::-webkit-scrollbar-track {
-    background: rgb(30, 31, 32);
-    ;
-    border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgb(126 126 126);
-    ;
-    border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: rgb(170 170 170);
-}
-
 
 * {
     -webkit-box-sizing: border-box;
