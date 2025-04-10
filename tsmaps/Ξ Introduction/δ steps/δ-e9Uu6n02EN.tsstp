@@ -1,29 +1,23 @@
 # Modular Documentation
 
-Docs Assembler is a VS Code extension that treats documentation as modular, reusable "maps" — JSON-based trees where each step (node) pulls content from standalone markdown files.
-
-### This structure allows you to:
+Docs Assembler is a VS Code extension that treats documentation as modular, reusable "maps". These are json-based trees where each step (node) pulls content from standalone markdown files. This structure allows you to:
 
  - Edit documentation in your preferred markdown editor.
  - Reuse markdown across multiple steps or maps.
  - Use variables to inject dynamic content — supported by IntelliSense.
 
-Maps bring object-oriented principles — encapsulation, modularity, and reuse — to documentation.
-
-### How maps work:
+Maps bring object-oriented principles cencapsulation, modularity, and reuse — to documentation. How maps work:
 
  - Root step: Entry point.
- - Branches: Decision paths (if/then, troubleshooting flows).
+ - Branches: Decision paths — comprised of steps (if/then, troubleshooting flows)
  - Solutions: Resolution endpoints.
- - Open paths requiring resolution in parent maps.
+ - Exits: Open paths requiring resolution in parent maps.
 
-The publish routine validates maps and converts them into formats like Jekyll Markdown for GitHub Pages — guides.
-
-### Why it matters:
+Maps and steps are interchangeable components. A map without exits functions as a solution (a resolved endpoint). Substituting a step with a map incorporates all of its contents into that node. When a map is published, it recursively expands all nested maps, verifies the output, and generates a guide in Jekyll Markdown format compatible with GitHub Pages. Why it matters:
 
 For Authors:
 
- - Maps provide a structured way to define pathways.
+ - Define clear pathways for documentation, and organise into reusable units.
  - Single-source updates propagate everywhere.
  - Complex workflows stay editable.
 

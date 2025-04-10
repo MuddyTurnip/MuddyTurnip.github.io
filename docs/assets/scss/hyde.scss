@@ -549,7 +549,7 @@ a.sidebar-nav-item:focus {
 }
 
 .sidebar .warning {
-    color: #ad9983;
+    color: #e1978b;
     font-size: 11px;
     font-style: italic;
 }
@@ -585,6 +585,42 @@ a.sidebar-nav-item:focus {
     }
 }
 
+.warning-header {
+    position: absolute;
+}
+
+.warning-header h4 {
+    color: #e1978b;
+    font-size: 13px;
+    font-style: italic;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.warning-header h5 {
+    color: #e1978b;
+    font-size: 11px;
+    font-style: italic;
+    padding: 0;
+    margin: 5px 0 0 20px;
+}
+
+.warning-header p {
+    color: #e1978b;
+    font-size: 11px;
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+    font-weight: 500;
+}
+
+.warning-header a {
+    font-size: 11px;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 0 40px;
+    font-weight: 500;
+}
 
 
 /*
