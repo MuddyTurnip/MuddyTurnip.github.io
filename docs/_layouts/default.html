@@ -18,6 +18,14 @@
 
       <div class="main-content">
 
+        <h2>{{ page.path}}</h2>
+
+          {% if page.path contains 'HAL/' %}
+
+          <p class="warning">Pag contained HAL!!!!!!!!!!!.</p>
+
+          {% endif %}
+
         {% if page.path contains 'HAL/' %}
 
         <h4>WARNING</h4>
