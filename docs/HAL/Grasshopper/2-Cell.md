@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZLh0ge","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"},"fragment":{"id":"f5iZLh0ge","topLevelMapKey":"eGVQJ60uV","mapKeyChain":"eGVQJ60uV","guideID":"f5iZLh2Jd","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/2-Cell.tsmap","parentFragmentID":null,"chartKey":"eGVQJ60uV","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6EbCt1t2","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"},"fragment":{"id":"f6EbCt1t2","topLevelMapKey":"eGVQJ60uV","mapKeyChain":"eGVQJ60uV","guideID":"f6EbCt1jm","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/2-Cell.tsmap","parentFragmentID":null,"chartKey":"eGVQJ60uV","options":[]}} -->
 
 ## 2. Cell
 

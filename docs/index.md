@@ -3,24 +3,26 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZ850EA","path":"","fragmentFolderPath":"index_frags"},"fragment":{"id":"f5iZ850EA","topLevelMapKey":"e9T3Wy02Xz","mapKeyChain":"e9T3Wy02Xz","guideID":"f5iZ851pV","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/Introduction.tsmap","parentFragmentID":null,"chartKey":"e9T3Wy02Xz","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6Eb1i239","path":"","fragmentFolderPath":"index_frags"},"fragment":{"id":"f6Eb1i239","topLevelMapKey":"e9T3Wy02Xz","mapKeyChain":"e9T3Wy02Xz","guideID":"f6Eb1i0B2","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/Introduction.tsmap","parentFragmentID":null,"chartKey":"e9T3Wy02Xz","options":[]}} -->
 
 # Modular Documentation
 
-Docs Assembler is a VS Code extension that treats documentation as modular, reusable "maps". These are json-based trees where each step (node) pulls content from standalone markdown files. This structure allows you to:
+Docs Assembler is a VS Code extension that redefines documentation as modular, reusable "maps"—JSON-based trees that function as class-like components, enabling experts to encode interconnected problem-solving pathways without redundancy. Unlike traditional manuals limited to a single linear pathway, these trees mimic the brain’s networked thinking, where knowledge links dynamically across contexts (e.g., a screwdriver’s use applies to all screws, whether in furniture or machinery or electronics). Maps eliminate duplication by referencing shared solutions—like common repairs across lawnmower models—so experts maintain one source, not hundreds. Users navigate from the root, selecting options to generate a custom help article, getting precise help without sifting through irrelevant manuals.
+
+Each step (node) in a map pulls content from a standalone markdown files This structure allows you to:
 
  - Edit documentation in your preferred markdown editor.
  - Reuse markdown across multiple steps or maps.
  - Use variables to inject dynamic content — supported by IntelliSense.
 
-Maps bring object-oriented principles cencapsulation, modularity, and reuse — to documentation. How maps work:
+Maps bring object-oriented principles like encapsulation to documentation. How maps work:
 
  - Root step: Entry point.
  - Branches: Decision paths — comprised of steps (if/then, troubleshooting flows)
  - Solutions: Resolution endpoints.
  - Exits: Open paths requiring resolution in parent maps.
 
-Maps and steps are interchangeable components. A map without exits functions as a solution (a resolved endpoint). Substituting a step with a map incorporates all of its contents into that node. When a map is published, it recursively expands all nested maps, verifies the output, and generates a guide in Jekyll Markdown format compatible with GitHub Pages. Why it matters:
+Maps and steps are interchangeable components. Substituting a step with a map incorporates all of its contents into that node. Any exits the map has beome options. When a map is published, it recursively expands all nested maps, verifies the output, and generates a guide in Jekyll Markdown format compatible with GitHub Pages. Why it matters:
 
 For Authors:
 

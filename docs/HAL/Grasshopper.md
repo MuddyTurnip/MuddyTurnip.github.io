@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZE7198","path":"HAL","fragmentFolderPath":"HAL/Grasshopper_frags"},"fragment":{"id":"f5iZE7198","topLevelMapKey":"eGVQI90Zm","mapKeyChain":"eGVQI90Zm","guideID":"f5iZE72EQ","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper.tsmap","parentFragmentID":null,"chartKey":"eGVQI90Zm","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6Eb7J2N7","path":"HAL","fragmentFolderPath":"HAL/Grasshopper_frags"},"fragment":{"id":"f6Eb7J2N7","topLevelMapKey":"eGVQI90Zm","mapKeyChain":"eGVQI90Zm","guideID":"f6Eb7J1U0","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper.tsmap","parentFragmentID":null,"chartKey":"eGVQI90Zm","options":[]}} -->
 
 ## Tutorials for the HAL Robotics Framework for Grasshopper
 ---

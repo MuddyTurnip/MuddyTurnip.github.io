@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZdC1qY","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"},"fragment":{"id":"f5iZdC1qY","topLevelMapKey":"eGWgvq07O","mapKeyChain":"eGWgvq07O","guideID":"f5iZdC0WL","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers.tsmap","parentFragmentID":null,"chartKey":"eGWgvq07O","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6EbRU1Fh","path":"HAL","fragmentFolderPath":"HAL/Manufacturers_frags"},"fragment":{"id":"f6EbRU1Fh","topLevelMapKey":"eGWgvq07O","mapKeyChain":"eGWgvq07O","guideID":"f6EbRU1TZ","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers.tsmap","parentFragmentID":null,"chartKey":"eGWgvq07O","options":[]}} -->
 
 ## Manufacturer Specific Details
 

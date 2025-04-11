@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZeA2B6","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"},"fragment":{"id":"f5iZeA2B6","topLevelMapKey":"eGWgw90N3","mapKeyChain":"eGWgw90N3","guideID":"f5iZeA1EN","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/3-Programming.tsmap","parentFragmentID":null,"chartKey":"eGWgw90N3","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6EbS31Re","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"},"fragment":{"id":"f6EbS31Re","topLevelMapKey":"eGWgw90N3","mapKeyChain":"eGWgw90N3","guideID":"f6EbS31q3","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/3-Programming.tsmap","parentFragmentID":null,"chartKey":"eGWgw90N3","options":[]}} -->
 
 ## 3. Programming
 

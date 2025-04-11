@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZ2e17z","path":"HAL/decode","fragmentFolderPath":"HAL/decode/2-Cell_frags"},"fragment":{"id":"f5iZ2e17z","topLevelMapKey":"cQhegc01qa","mapKeyChain":"cQhegc01qa","guideID":"f5iZ2e20M","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/2-Cell-decode.tsmap","parentFragmentID":null,"chartKey":"cQhegc01qa","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6Eaxz1D5","path":"HAL/decode","fragmentFolderPath":"HAL/decode/2-Cell_frags"},"fragment":{"id":"f6Eaxz1D5","topLevelMapKey":"cQhegc01qa","mapKeyChain":"cQhegc01qa","guideID":"f6Eaxz0md","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/2-Cell-decode.tsmap","parentFragmentID":null,"chartKey":"cQhegc01qa","options":[]}} -->
 
 ## 2. Cell Setup
 

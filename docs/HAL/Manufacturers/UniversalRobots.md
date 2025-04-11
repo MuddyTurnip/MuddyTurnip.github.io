@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZ9C2I9","path":"HAL/Manufacturers","fragmentFolderPath":"HAL/Manufacturers/UniversalRobots_frags"},"fragment":{"id":"f5iZ9C2I9","topLevelMapKey":"eGVQHe1nl","mapKeyChain":"eGVQHe1nl","guideID":"f5iZ9C0v2","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/UniversalRobots.tsmap","parentFragmentID":null,"chartKey":"eGVQHe1nl","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6Eb3A1Dp","path":"HAL/Manufacturers","fragmentFolderPath":"HAL/Manufacturers/UniversalRobots_frags"},"fragment":{"id":"f6Eb3A1Dp","topLevelMapKey":"eGVQHe1nl","mapKeyChain":"eGVQHe1nl","guideID":"f6Eb3A2Mq","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Manufacturers/UniversalRobots.tsmap","parentFragmentID":null,"chartKey":"eGVQHe1nl","options":[]}} -->
 
 ## Universal Robots
 

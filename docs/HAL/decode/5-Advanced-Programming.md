@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iZSd0ez","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"},"fragment":{"id":"f5iZSd0ez","topLevelMapKey":"eGVQJR26Y","mapKeyChain":"eGVQJR26Y","guideID":"f5iZSd1Gn","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/5-AdvancedProgramming-decode.tsmap","parentFragmentID":null,"chartKey":"eGVQJR26Y","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6EbI10ND","path":"HAL/decode","fragmentFolderPath":"HAL/decode/5-Advanced-Programming_frags"},"fragment":{"id":"f6EbI10ND","topLevelMapKey":"eGVQJR26Y","mapKeyChain":"eGVQJR26Y","guideID":"f6EbI12D0","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/5-AdvancedProgramming-decode.tsmap","parentFragmentID":null,"chartKey":"eGVQJR26Y","options":[]}} -->
 
 ## 5. Advanced Programming
 

@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f5iYxp1jq","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"},"fragment":{"id":"f5iYxp1jq","topLevelMapKey":"cQXU6R01TZ","mapKeyChain":"cQXU6R01TZ","guideID":"f5iYxp0N4","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Decode.tsmap","parentFragmentID":null,"chartKey":"cQXU6R01TZ","options":[]}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f6EauK0aF","path":"HAL","fragmentFolderPath":"HAL/Decode_frags"},"fragment":{"id":"f6EauK0aF","topLevelMapKey":"cQXU6R01TZ","mapKeyChain":"cQXU6R01TZ","guideID":"f6EauK1es","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Decode.tsmap","parentFragmentID":null,"chartKey":"cQXU6R01TZ","options":[]}} -->
 
 <img class="logo" src="../assets/images/decode/logo.png" height="35">
 
