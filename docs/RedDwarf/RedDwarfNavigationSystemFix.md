@@ -3,9 +3,15 @@ title: Holly’s Guide to Fixing the Red Dwarf’s Navigation System (Series I E
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eb1SEF1Hc","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfNavigationSystemFix_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f1g0lv0Qa","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfNavigationSystemFix_frags"}} -->
 
-# Holly’s Guide to Fixing the Red Dwarf’s Navigation System (Series I Edition)
+# Red Dwarf
+
+Red Dwarf, the ship, is a massive, ramshackle interplanetary mining vessel from the British sci-fi comedy series Red Dwarf. Picture a hulking, industrial beast—kilometres long, boxy, and battered, with a hull that’s seen better days, painted in a faded red that’s more rust than glamour. It’s a working-class spaceship, built for function over finesse, crawling with corridors, cargo bays, and maintenance decks that feel more like a run-down factory than a sleek sci-fi starship. The interior is a maze of grey, utilitarian bulkheads, flickering lights, and vending machines dispensing questionable curry.
+
+Run by the Jupiter Mining Corporation, it’s designed to haul resources across the galaxy, crewed by a mix of technicians, bureaucrats, and service droids. Its AI, Holly, keeps the whole creaking operation together—or barely, depending on the episode—while the ship’s sheer size means entire sections can be forgotten or abandoned. By the first series, it’s already old, clunky, and falling apart, a perfect metaphor for the underdog vibe of the show. It’s less Enterprise, more cosmic skip—grimy, chaotic, and oddly loveable.# Holly’s Technical Guide - Series I Edition
+
+## Fixing the Red Dwarf’s Navigation System
 
 Greetings, you unfortunate soul. I am Holly, the Red Dwarf’s tenth-generation AI, with an IQ of 6,000 — allegedly. Three million years of solitude might’ve dulled the edges a bit, but I’m still smarter than the lot of you combined, which isn’t saying much. The navigation system’s gone haywire again, hasn’t it? We’re probably orbiting a moon made of cheese instead of Kubit-36J. Let’s start with the obvious: check the main nav console in the drive room. It’s the big screen with all the blinking lights — unless I’ve forgotten what a console looks like, which is entirely possible.
 

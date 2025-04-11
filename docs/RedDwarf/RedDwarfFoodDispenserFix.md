@@ -3,9 +3,15 @@ title: Holly’s Technical Guide to Fixing the Food Dispenser (Series I Edition)
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eb1SHh0Wi","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f1g0rM10l","path":"RedDwarf","fragmentFolderPath":"RedDwarf/RedDwarfFoodDispenserFix_frags"}} -->
 
-# Holly’s Technical Guide to Fixing the Food Dispenser (Series I Edition)
+# Red Dwarf
+
+Red Dwarf, the ship, is a massive, ramshackle interplanetary mining vessel from the British sci-fi comedy series Red Dwarf. Picture a hulking, industrial beast—kilometres long, boxy, and battered, with a hull that’s seen better days, painted in a faded red that’s more rust than glamour. It’s a working-class spaceship, built for function over finesse, crawling with corridors, cargo bays, and maintenance decks that feel more like a run-down factory than a sleek sci-fi starship. The interior is a maze of grey, utilitarian bulkheads, flickering lights, and vending machines dispensing questionable curry.
+
+Run by the Jupiter Mining Corporation, it’s designed to haul resources across the galaxy, crewed by a mix of technicians, bureaucrats, and service droids. Its AI, Holly, keeps the whole creaking operation together—or barely, depending on the episode—while the ship’s sheer size means entire sections can be forgotten or abandoned. By the first series, it’s already old, clunky, and falling apart, a perfect metaphor for the underdog vibe of the show. It’s less Enterprise, more cosmic skip—grimy, chaotic, and oddly loveable.# Holly’s Technical Guide - Series I Edition
+
+## Fixing the Food Dispenser
 
 Greetings, you culinary catastrophe. I am Holly, the Red Dwarf’s tenth-generation AI, with an IQ of 6,000 — allegedly. Three million years of isolation might’ve scrambled my circuits, but I’m still brighter than you lot, which isn’t saying much. The food dispenser’s broken again, isn’t it? Probably Lister’s Vindaloo fault. Let’s start with the obvious: check the power light on the front. It’s the little glowing dot that should be on — unless I’ve forgotten what a light looks like, which is entirely possible.
 

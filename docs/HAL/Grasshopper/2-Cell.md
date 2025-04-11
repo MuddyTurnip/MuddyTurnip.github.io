@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eb1Rqa1pI","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f1g0H50k7","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/2-Cell_frags"}} -->
 
 ## 2. Cell
 

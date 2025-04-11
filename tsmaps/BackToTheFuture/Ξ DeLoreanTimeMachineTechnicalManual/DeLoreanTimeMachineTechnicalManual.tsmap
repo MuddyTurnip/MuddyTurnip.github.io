@@ -8,104 +8,111 @@
     "cachedPath": "c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/BackToTheFuture/Ξ DeLoreanTimeMachineTechnicalManual/DeLoreanTimeMachineTechnicalManual.tsmap",
     "iText": "Link to 'DeLoreanTimeMachineTechnicalManual'",
     "___rΩΩt___": {
-        "key": "eaoeoB00mC",
+        "key": "f1azJk029r",
         "nodes": [
             {
-                "key": "eGVQJj0pW",
+                "key": "eaoeoB00mC",
                 "order": 1,
-                "option": "Next",
+                "option": "Root",
                 "nodes": [
                     {
-                        "key": "eGVQJj2Jm",
+                        "key": "eGVQJj0pW",
                         "order": 1,
-                        "option": "The DeLorean exhibits no operational response",
+                        "option": "Next",
                         "nodes": [
                             {
-                                "key": "eGVQJj00w",
+                                "key": "eGVQJj2Jm",
                                 "order": 1,
-                                "option": "The microreactor or fusion unit lacks sufficient energy input",
-                                "isLeaf": true
-                            },
-                            {
-                                "key": "eGVQJj1Au",
-                                "order": 2,
-                                "option": "Energy supply is nominal, yet activation remains absent",
+                                "option": "The DeLorean exhibits no operational response",
                                 "nodes": [
                                     {
-                                        "key": "eGVQJj1ZS",
+                                        "key": "eGVQJj00w",
                                         "order": 1,
-                                        "option": "The flux capacitor exhibits catastrophic failure",
+                                        "option": "The microreactor or fusion unit lacks sufficient energy input",
                                         "isLeaf": true
                                     },
                                     {
-                                        "key": "eGVQJj2Ti",
+                                        "key": "eGVQJj1Au",
                                         "order": 2,
-                                        "option": "The flux capacitor functions within parameters",
-                                        "isLeaf": true
+                                        "option": "Energy supply is nominal, yet activation remains absent",
+                                        "nodes": [
+                                            {
+                                                "key": "eGVQJj1ZS",
+                                                "order": 1,
+                                                "option": "The flux capacitor exhibits catastrophic failure",
+                                                "isLeaf": true
+                                            },
+                                            {
+                                                "key": "eGVQJj2Ti",
+                                                "order": 2,
+                                                "option": "The flux capacitor functions within parameters",
+                                                "isLeaf": true
+                                            }
+                                        ]
                                     }
                                 ]
-                            }
-                        ]
-                    },
-                    {
-                        "key": "eGVQJj2Un",
-                        "order": 2,
-                        "option": "She activates but fails to achieve temporal displacement",
-                        "nodes": [
-                            {
-                                "key": "eGVQJj17M",
-                                "order": 1,
-                                "option": "The time circuit parameters are misconfigured",
-                                "isLeaf": true
                             },
                             {
-                                "key": "eGVQJj2Zm",
+                                "key": "eGVQJj2Un",
                                 "order": 2,
-                                "option": "Parameters align, yet displacement eludes us",
+                                "option": "She activates but fails to achieve temporal displacement",
                                 "nodes": [
                                     {
-                                        "key": "eGVQJj1O0",
+                                        "key": "eGVQJj17M",
                                         "order": 1,
-                                        "option": "The injector manifold is obstructed",
+                                        "option": "The time circuit parameters are misconfigured",
                                         "isLeaf": true
                                     },
                                     {
-                                        "key": "eGVQJj1c4",
+                                        "key": "eGVQJj2Zm",
                                         "order": 2,
-                                        "option": "The manifold is clear; external interference is probable",
-                                        "isLeaf": true
+                                        "option": "Parameters align, yet displacement eludes us",
+                                        "nodes": [
+                                            {
+                                                "key": "eGVQJj1O0",
+                                                "order": 1,
+                                                "option": "The injector manifold is obstructed",
+                                                "isLeaf": true
+                                            },
+                                            {
+                                                "key": "eGVQJj1c4",
+                                                "order": 2,
+                                                "option": "The manifold is clear; external interference is probable",
+                                                "isLeaf": true
+                                            }
+                                        ]
                                     }
                                 ]
-                            }
-                        ]
-                    },
-                    {
-                        "key": "eGVQJj0rQ",
-                        "order": 3,
-                        "option": "Displacement occurs, but the spatiotemporal coordinates are erroneous",
-                        "nodes": [
-                            {
-                                "key": "eGVQJj1o4",
-                                "order": 1,
-                                "option": "The time circuit coordinates are misaligned",
-                                "isLeaf": true
                             },
                             {
-                                "key": "eGVQJj1Sy",
-                                "order": 2,
-                                "option": "Coordinates are precise, yet the error persists",
+                                "key": "eGVQJj0rQ",
+                                "order": 3,
+                                "option": "Displacement occurs, but the spatiotemporal coordinates are erroneous",
                                 "nodes": [
                                     {
-                                        "key": "eGVQJj1Qu",
+                                        "key": "eGVQJj1o4",
                                         "order": 1,
-                                        "option": "The flux dispersal unit is compromised",
+                                        "option": "The time circuit coordinates are misaligned",
                                         "isLeaf": true
                                     },
                                     {
-                                        "key": "eGVQJj2Bc",
+                                        "key": "eGVQJj1Sy",
                                         "order": 2,
-                                        "option": "The unit is intact; turbulence is the culprit",
-                                        "isLeaf": true
+                                        "option": "Coordinates are precise, yet the error persists",
+                                        "nodes": [
+                                            {
+                                                "key": "eGVQJj1Qu",
+                                                "order": 1,
+                                                "option": "The flux dispersal unit is compromised",
+                                                "isLeaf": true
+                                            },
+                                            {
+                                                "key": "eGVQJj2Bc",
+                                                "order": 2,
+                                                "option": "The unit is intact; turbulence is the culprit",
+                                                "isLeaf": true
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -183,11 +190,15 @@
         {
             "key": "δ-eaoeoB00mC",
             "relativePath": "./δ steps/δ-eaoeoB00mC.tsstp"
+        },
+        {
+            "key": "δ-f1azJk029r",
+            "relativePath": "./δ steps/δ-f1azJk029r.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "eapGkA01os",
-        "editorID": "car_c6d5ebe52722493eae3ca3cfb88fe8db",
-        "ticks": 1743935080470
+        "id": "f1bRmG000M",
+        "editorID": "car_04066e8b47054597a55b642114c82437",
+        "ticks": 1744330747364
     }
 }

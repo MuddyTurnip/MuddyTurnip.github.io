@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eb1S8R0f2","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f1g0e90ML","path":"HAL/decode","fragmentFolderPath":"HAL/decode/3-Programming_frags"}} -->
 
 ## 3. Programming
 

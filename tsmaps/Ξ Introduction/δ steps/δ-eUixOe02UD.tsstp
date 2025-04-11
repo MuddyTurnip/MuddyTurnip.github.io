@@ -1,4 +1,5 @@
 ¬import ll from "../../shared/localLinks"
+¬import el from "../../shared/externalLinks"
 
 
 ## Simple Guide + Tools
@@ -6,4 +7,7 @@
 Uses markdown, images, reusable steps, variables, and auto-adjusting links.
 
 Example: [HAL Robotics decode 2-Cell]{{ll.decode2Cell_map_link}}
+
+Map: [2-Cell-decode.tsmap](https://github.com/MuddyTurnip/MuddyTurnip.github.io/blob/main/tsmaps/HAL/decode/%CE%9E%202-Cell-decode/2-Cell-decode.tsmap)
+Clone this [repo]({{el.docsAssemblerPagesRepo_url}}) and install the [extension]({{el.docsAssemblerExtension_url}}) to view the map.
 

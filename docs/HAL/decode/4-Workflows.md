@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"eb1RWb0zG","path":"HAL/decode","fragmentFolderPath":"HAL/decode/4-Workflows_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f1fzqS2QJ","path":"HAL/decode","fragmentFolderPath":"HAL/decode/4-Workflows_frags"}} -->
 
 ## 4. Operator Workflows
 
