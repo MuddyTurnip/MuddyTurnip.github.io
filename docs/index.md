@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1lZXd2NR","path":"","fragmentFolderPath":"index_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iZ850EA","path":"","fragmentFolderPath":"index_frags"},"fragment":{"id":"f5iZ850EA","topLevelMapKey":"e9T3Wy02Xz","mapKeyChain":"e9T3Wy02Xz","guideID":"f5iZ851pV","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/Introduction.tsmap","parentFragmentID":null,"chartKey":"e9T3Wy02Xz","options":[]}} -->
 
 # Modular Documentation
 
@@ -34,34 +34,36 @@ Imagine a mechanic diagnosing a forklift's hydraulic pump: they don't need the f
 
 Explorer demos to see maps and guides in action.
 
-## Simple Guide
+## Demos
+
+## 1. Simple Guide
 
 The simplest guide, with fixed steps presented as an article - like a manual, book, or essay.
 
 Example: [Holly's Guide To Fix Red Dwarf Food Dispenser](/RedDwarf/RedDwarfFoodDispenserFix) 
 
 Map: [RedDwarfFoodDispenserFix.tsmap](https://github.com/MuddyTurnip/MuddyTurnip.github.io/blob/main/tsmaps/RedDwarf/%CE%9E%20RedDwarfFoodDispenserFix/RedDwarfFoodDispenserFix.tsmap)   
-*To view the map clone this [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
+*To view the map clone the [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
 
-## Simple Guide + Tools
+## 2. Simple Guide + Tools
 
 Uses markdown, images, reusable steps, variables, and auto-adjusting links.
 
 Example: [HAL Robotics decode 2-Cell](/HAL/decode/2-Cell)
 
 Map: [2-Cell-decode.tsmap](https://github.com/MuddyTurnip/MuddyTurnip.github.io/blob/main/tsmaps/HAL/decode/%CE%9E%202-Cell-decode/2-Cell-decode.tsmap)   
-*To view the map clone this [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
+*To view the map clone the [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
 
 
 
-## Adaptive Guide
+## 3. Adaptive Guide
 
 Adapts to your specific situation, generating a custom article with only the relevant steps.
 
 Example: [DeLorean Time Machine Technical Manual](/BackToTheFuture/DeLorean-Time-Machine-Technical-Manual)
 
 Map: [DeLoreanTimeMachineTechnicalManual.tsmap](https://github.com/MuddyTurnip/MuddyTurnip.github.io/blob/main/tsmaps/BackToTheFuture/%CE%9E%20DeLoreanTimeMachineTechnicalManual/DeLoreanTimeMachineTechnicalManual.tsmap)   
-*To view the map clone this [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
+*To view the map clone the [repo](https://github.com/MuddyTurnip/MuddyTurnip.github.io) and install the [extension](https://marketplace.visualstudio.com/items?itemName=netoftrees.documentation-assembler).*
 
 
 ## Guides within guides

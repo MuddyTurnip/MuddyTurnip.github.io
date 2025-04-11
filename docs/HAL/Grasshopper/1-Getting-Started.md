@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1fzll1LR","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/1-Getting-Started_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iYuA2Py","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/1-Getting-Started_frags"},"fragment":{"id":"f5iYuA2Py","topLevelMapKey":"cQWYif02Yo","mapKeyChain":"cQWYif02Yo","guideID":"f5iYuA0Rt","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/1-GettingStarted.tsmap","parentFragmentID":null,"chartKey":"cQWYif02Yo","options":[]}} -->
 
 ## 1. Getting Started
 

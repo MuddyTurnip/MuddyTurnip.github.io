@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1fzqS2QJ","path":"HAL/decode","fragmentFolderPath":"HAL/decode/4-Workflows_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iYzI0NU","path":"HAL/decode","fragmentFolderPath":"HAL/decode/4-Workflows_frags"},"fragment":{"id":"f5iYzI0NU","topLevelMapKey":"cQbYbd02OI","mapKeyChain":"cQbYbd02OI","guideID":"f5iYzI0s9","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/4-Workflows.tsmap","parentFragmentID":null,"chartKey":"cQbYbd02OI","options":[]}} -->
 
 ## 4. Operator Workflows
 

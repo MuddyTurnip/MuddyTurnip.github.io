@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1g0ee15G","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iZl81nd","path":"HAL/Overview","fragmentFolderPath":"HAL/Overview/Glossary_frags"},"fragment":{"id":"f5iZl81nd","topLevelMapKey":"eGXo5y2EQ","mapKeyChain":"eGXo5y2EQ","guideID":"f5iZl81Ru","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Overview/Glossary.tsmap","parentFragmentID":null,"chartKey":"eGXo5y2EQ","options":[]}} -->
 
 ## 7. Glossary
 

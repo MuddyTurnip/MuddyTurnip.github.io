@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1g07U1bP","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iZG41r5","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/6-Control_frags"},"fragment":{"id":"f5iZG41r5","topLevelMapKey":"eGVQIJ0LJ","mapKeyChain":"eGVQIJ0LJ","guideID":"f5iZG40l2","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/6-Control.tsmap","parentFragmentID":null,"chartKey":"eGVQIJ0LJ","options":[]}} -->
 
 ## 6. Control
 

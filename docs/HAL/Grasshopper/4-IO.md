@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1fzaw0AZ","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iYkb02r","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/4-IO_frags"},"fragment":{"id":"f5iYkb02r","topLevelMapKey":"cQSuwS01HV","mapKeyChain":"cQSuwS01HV","guideID":"f5iYkb2Uc","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/4-IO.tsmap","parentFragmentID":null,"chartKey":"cQSuwS01HV","options":[]}} -->
 
 ## 4. IO
 

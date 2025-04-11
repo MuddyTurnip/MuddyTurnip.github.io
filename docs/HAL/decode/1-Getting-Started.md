@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1g0WD0Xn","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iZZL1ii","path":"HAL/decode","fragmentFolderPath":"HAL/decode/1-Getting-Started_frags"},"fragment":{"id":"f5iZZL1ii","topLevelMapKey":"eGWgvI27x","mapKeyChain":"eGWgvI27x","guideID":"f5iZZL1cf","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/decode/1-GettingStarted-decode.tsmap","parentFragmentID":null,"chartKey":"eGWgvI27x","options":[]}} -->
 
 ## 1. Getting Started
 

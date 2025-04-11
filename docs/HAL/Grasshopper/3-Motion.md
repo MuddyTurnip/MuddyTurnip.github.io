@@ -3,7 +3,7 @@ title: null
 ---
 
 
-<!-- tsGuideRenderComment {"guide":{"id":"f1fzhv0v2","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/3-Motion_frags"}} -->
+<!-- tsGuideRenderComment {"guide":{"id":"f5iYn02W9","path":"HAL/Grasshopper","fragmentFolderPath":"HAL/Grasshopper/3-Motion_frags"},"fragment":{"id":"f5iYn02W9","topLevelMapKey":"cQTP3J01qB","mapKeyChain":"cQTP3J01qB","guideID":"f5iYn00HH","guidePath":"c:/GitHub/MuddyTurnip/MuddyTurnip.github.io/tsmaps/HAL/Grasshopper/3-Motion.tsmap","parentFragmentID":null,"chartKey":"cQTP3J01qB","options":[]}} -->
 
 ## 3. Motion
 
